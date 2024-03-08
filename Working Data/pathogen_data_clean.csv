@@ -1,0 +1,403 @@
+study_id,pathogen_id,pathogen_id_new,year,month,season,pathogen_tested,population_tested,sample_size,num_pos_pcr,num_pos_ser,num_pos_other,test_other,country,location_name,full_location_name,topography,ecoregion,gps_latitude,gps_longitude
+2,1,path_1,1978,October,Dry,Yellow_fever,Human,,,57,,,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.43470831,-14.65706571
+6,2,path_2,1970,All_months,Both,Anthrax,Human,5431,,8,,,Gambia,brefet,"Brefet, Gambia",Mangrove,Guinean_mangroves,13.24379833,-16.35622723
+6,3,path_3,1971,All_months,Both,Anthrax,Human,5431,,2,,,Gambia,brefet,"Brefet, Gambia",Mangrove,Guinean_mangroves,13.24379833,-16.35622723
+6,4,path_4,1972,All_months,Both,Anthrax,Human,5431,,2,,,Gambia,brefet,"Brefet, Gambia",Mangrove,Guinean_mangroves,13.24379833,-16.35622723
+6,5,path_5,1973,All_months,Both,Anthrax,Human,5431,,1,,,Gambia,brefet,"Brefet, Gambia",Mangrove,Guinean_mangroves,13.24379833,-16.35622723
+6,6,path_6,1970,All_months,Both,Anthrax,Human,8329,,49,,,Gambia,bintang,"Bintang, Gambia",Mangrove,Guinean_mangroves,13.2492391,-16.21331088
+6,7,path_7,1971,All_months,Both,Anthrax,Human,8329,,22,,,Gambia,bintang,"Bintang, Gambia",Mangrove,Guinean_mangroves,13.2492391,-16.21331088
+6,8,path_8,1972,All_months,Both,Anthrax,Human,8329,,51,,,Gambia,bintang,"Bintang, Gambia",Mangrove,Guinean_mangroves,13.2492391,-16.21331088
+6,9,path_9,1973,All_months,Both,Anthrax,Human,8329,,27,,,Gambia,bintang,"Bintang, Gambia",Mangrove,Guinean_mangroves,13.2492391,-16.21331088
+6,10,path_10,1970,All_months,Both,Anthrax,Human,7019,,70,,,Gambia,kansala,"Kansala, Gambia",Mangrove,Guinean_mangroves,13.2511223,-16.09169974
+6,11,path_11,1971,All_months,Both,Anthrax,Human,7019,,20,,,Gambia,kansala,"Kansala, Gambia",Mangrove,Guinean_mangroves,13.2511223,-16.09169974
+6,12,path_12,1972,All_months,Both,Anthrax,Human,7019,,27,,,Gambia,kansala,"Kansala, Gambia",Mangrove,Guinean_mangroves,13.2511223,-16.09169974
+6,13,path_13,1973,All_months,Both,Anthrax,Human,7019,,30,,,Gambia,kansala,"Kansala, Gambia",Mangrove,Guinean_mangroves,13.2511223,-16.09169974
+6,14,path_14,1970,All_months,Both,Anthrax,Human,3500,,5,,,Gambia,bondai,"Bondai, Gambia",Mangrove,Guinean_mangroves,13.24393612,-15.88854252
+6,15,path_15,1971,All_months,Both,Anthrax,Human,3500,,7,,,Gambia,bondai,"Bondai, Gambia",Mangrove,Guinean_mangroves,13.24393612,-15.88854252
+6,16,path_16,1972,All_months,Both,Anthrax,Human,3500,,13,,,Gambia,bondai,"Bondai, Gambia",Mangrove,Guinean_mangroves,13.24393612,-15.88854252
+6,17,path_17,1973,All_months,Both,Anthrax,Human,3500,,6,,,Gambia,bondai,"Bondai, Gambia",Mangrove,Guinean_mangroves,13.24393612,-15.88854252
+6,18,path_18,1970,All_months,Both,Anthrax,Human,4238,,15,,,Gambia,jarrol,"Jarrol, Gambia",Mangrove,Guinean_mangroves,13.2418977,-15.84631982
+6,19,path_19,1971,All_months,Both,Anthrax,Human,4238,,9,,,Gambia,jarrol,"Jarrol, Gambia",Mangrove,Guinean_mangroves,13.2418977,-15.84631982
+6,20,path_20,1972,All_months,Both,Anthrax,Human,4238,,21,,,Gambia,jarrol,"Jarrol, Gambia",Mangrove,Guinean_mangroves,13.2418977,-15.84631982
+6,21,path_21,1973,All_months,Both,Anthrax,Human,4238,,8,,,Gambia,jarrol,"Jarrol, Gambia",Mangrove,Guinean_mangroves,13.2418977,-15.84631982
+10,22,path_22,1988,August,Rainy,Rift_valley_fever,Animal,39,,28,,,Senegal,dagana,"Dagana, Senegal",Desert,Sahelian_acacia_savanna,16.51216619,-15.50723996
+10,23,path_23,1988,August,Rainy,Rift_valley_fever,Animal,172,,37,,,Senegal,podor,"Podor, Senegal",Desert,Sahelian_acacia_savanna,16.66072234,-14.95859529
+10,24,path_24,1988,August,Rainy,Rift_valley_fever,Animal,92,,9,,,Senegal,matam,"Matam, Senegal",Desert,Sahelian_acacia_savanna,15.66024943,-13.25788065
+10,25,path_25,1989,August,Rainy,Rift_valley_fever,Animal,159,,38,,,Senegal,dagana,"Dagana, Senegal",Desert,Sahelian_acacia_savanna,16.51056251,-15.50296059
+10,26,path_26,1989,August,Rainy,Rift_valley_fever,Animal,115,,18,,,Senegal,podor,"Podor, Senegal",Desert,Sahelian_acacia_savanna,16.66072234,-14.95859529
+10,27,path_27,1989,August,Rainy,Rift_valley_fever,Animal,57,,8,,,Senegal,matam,"Matam, Senegal",Desert,Sahelian_acacia_savanna,15.66024943,-13.25788065
+12,28,path_28,2015,July_to_december,Both,Yellow_fever,Vector,106,4,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,29,path_29,2015,July_to_december,Both,Yellow_fever,Vector,2823,8,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,30,path_30,2015,July_to_december,Both,Yellow_fever,Vector,1107,7,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,31,path_31,2015,July_to_december,Both,Yellow_fever,Vector,130,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,32,path_32,2015,July_to_december,Both,Yellow_fever,Vector,2034,4,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,33,path_33,2010,July,Rainy,Yellow_fever,Human,,2,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,34,path_34,2010,October,Rainy,Yellow_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,35,path_35,2010,December,Dry,Yellow_fever,Human,,3,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,36,path_36,2011,July,Rainy,Yellow_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,37,path_37,2011,August,Rainy,Yellow_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,38,path_38,2011,September,Rainy,Yellow_fever,Human,,2,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,39,path_39,2011,October,Rainy,Yellow_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,40,path_40,2011,November,Dry,Yellow_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+13,41,path_41,2012,October,Rainy,Rift_valley_fever,Human,,1,,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+17,42,path_42,2021,February,Dry,Crimean_congo_haemorrhagic_fever,Human,364,,38,,,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,43,path_43,2021,February,Dry,Crimean_congo_haemorrhagic_fever,Animal,34,,13,,,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,44,path_44,2021,February,Dry,Crimean_congo_haemorrhagic_fever,Vector,808,3,,,sample size equal number of vector pools,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+19,45,path_45,1990,,,Rift_valley_fever,Animal,249,,92,,,Senegal,dagana,"Dagana, Senegal",Desert,Sahelian_acacia_savanna,16.51056251,-15.50296059
+19,46,path_46,1990,,,Rift_valley_fever,Animal,105,,9,,,Senegal,dagana,"Dagana, Senegal",Desert,Sahelian_acacia_savanna,16.51056251,-15.50296059
+19,47,path_47,1990,,,Rift_valley_fever,Animal,222,,60,,,Senegal,podor,"Podor, Senegal",Desert,Sahelian_acacia_savanna,16.66072234,-14.95859529
+19,48,path_48,1990,,,Rift_valley_fever,Animal,259,,26,,,Senegal,podor,"Podor, Senegal",Desert,Sahelian_acacia_savanna,16.66072234,-14.95859529
+19,49,path_49,1990,,,Rift_valley_fever,Animal,159,,20,,,Senegal,matam,"Matam, Senegal",Desert,Sahelian_acacia_savanna,15.66024943,-13.25788065
+19,50,path_50,1990,,,Rift_valley_fever,Animal,231,,4,,,Senegal,matam,"Matam, Senegal",Desert,Sahelian_acacia_savanna,15.66024943,-13.25788065
+20,51,path_51,2019,September,Rainy,Crimean_congo_haemorrhagic_fever,Human,,1,,,case_report,Senegal,douga,"Douga, Senegal",Desert,Sahelian_acacia_savanna,15.90648098,-13.50373016
+21,52,path_52,2021,July,Rainy,Crimean_congo_haemorrhagic_fever,Vector,1956,53,,,,Senegal,nabadji,"Nabadji, Senegal",Desert,Sahelian_acacia_savanna,15.7378981,-13.3890316
+22,53,path_53,2020,All_months,Both,Rift_valley_fever,Human,94,2,,,,Senegal,ndiaye_ndiaye,"Ndiaye Ndiaye, Senegal",,West_sudanian_savanna,13.9608855,-16.34432433
+22,54,path_54,2020,All_months,Both,Rift_valley_fever,Human,226,4,,,,Senegal,matam,"Matam, Senegal",Desert,Sahelian_acacia_savanna,15.66024943,-13.25788065
+22,55,path_55,2020,All_months,Both,Rift_valley_fever,Human,,2,,,,Senegal,saint_louis,"Saint Louis, Senegal",Desert,Sahelian_acacia_savanna,16.03115919,-16.4809644
+22,56,path_56,2020,All_months,Both,Rift_valley_fever,Human,,1,,,,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71765117,-17.46857751
+23,57,path_57,2006,August,Rainy,Trypanosomiasis,Animal,276,80,,,,Gambia,sambelkunda,"Sambelkunda, Gambia",,West_sudanian_savanna,13.66536638,-14.97566927
+23,58,path_58,2006,August,Rainy,Trypanosomiasis,Animal,75,26,,,,Gambia,sambelkunda,"Sambelkunda, Gambia",,West_sudanian_savanna,13.66536638,-14.97566927
+23,59,path_59,2006,August,Rainy,Trypanosomiasis,Animal,169,27,,,,Gambia,sambelkunda,"Sambelkunda, Gambia",,West_sudanian_savanna,13.66536638,-14.97566927
+24,60,path_60,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,150,,17,,,Senegal,rosso,"Rosso, Senegal",,Sahelian_acacia_savanna,16.5002779,-15.80422558
+24,61,path_61,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,91,,5,,,Senegal,dagana,"Dagana, Senegal",,Sahelian_acacia_savanna,16.51056251,-15.50296059
+24,62,path_62,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,106,,5,,,Senegal,dahra,"Dahra, Senegal",,West_sudanian_savanna,15.35638227,-15.48061172
+24,63,path_63,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,128,,27,,,Senegal,yonofere,"Yonofere, Senegal",,West_sudanian_savanna,15.28108959,-14.39509536
+24,64,path_64,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,93,,3,,,Senegal,bandia,"Bandia, Senegal",,West_sudanian_savanna,14.62547031,-17.01797222
+24,65,path_65,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,84,,1,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.77426198,-13.66926128
+24,66,path_66,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,225,,2,,,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+24,67,path_67,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Human,140,,1,,,Senegal,ziguinchor,"Ziguinchor, Senegal",,Guinean_forest_savanna_mosaic,12.56365266,-16.26208013
+24,68,path_68,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,92,,35,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,16.03115919,-16.4809644
+24,69,path_69,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,390,,42,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.65191408,-16.24297533
+24,70,path_70,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,48,,0,,,Senegal,thies,"Thies, Senegal",,West_sudanian_savanna,14.79049824,-16.93620946
+24,71,path_71,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,44,,4,,,Senegal,diourbel,"Diourbel, Senegal",,West_sudanian_savanna,14.65561167,-16.2360584
+24,72,path_72,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,41,,9,,,Senegal,fatick,"Fatick, Senegal",,West_sudanian_savanna,14.33898566,-16.41200815
+24,73,path_73,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,65,,3,,,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.16116194,-16.08495934
+24,74,path_74,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,96,,0,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.77426198,-13.66926128
+24,75,path_75,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,133,,0,,,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,12.90069235,-14.94257852
+24,76,path_76,1986,November,Dry,Crimean_congo_haemorrhagic_fever,Animal,37,,0,,,Senegal,ziguinchor,"Ziguinchor, Senegal",,Guinean_forest_savanna_mosaic,12.56365266,-16.26208013
+27,77,path_77,1999,July,Rainy,Rift_valley_fever,Human,1520,,79,,,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.0184461,-12.54245014
+28,78,path_78,2014,September,Rainy,Ebola,Human,75,1,,,,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71765117,-17.46857751
+29,79,path_79,2003,July_to_october,Rainy,Rift_valley_fever,Animal,57,,0,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27752643,-14.86701138
+29,80,path_80,2004,July_to_october,Rainy,Rift_valley_fever,Animal,30,,0,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27752643,-14.86701138
+29,81,path_81,2003,July_to_october,Rainy,Rift_valley_fever,Animal,39,,1,,,Senegal,furdu,"Furdu, Senegal",,Sahelian_acacia_savanna,15.241429,-14.851091
+29,82,path_82,2004,July_to_october,Rainy,Rift_valley_fever,Animal,28,,2,,,Senegal,furdu,"Furdu, Senegal",,Sahelian_acacia_savanna,15.241429,-14.851091
+29,83,path_83,2003,July_to_october,Rainy,Rift_valley_fever,Animal,52,,14,,,Senegal,kangaledji,"Kangaledji, Senegal",,Sahelian_acacia_savanna,15.265711,-14.834741
+29,84,path_84,2004,July_to_october,Rainy,Rift_valley_fever,Animal,39,,0,,,Senegal,kangaledji,"Kangaledji, Senegal",,Sahelian_acacia_savanna,15.265711,-14.834741
+29,85,path_85,2003,July_to_october,Rainy,Rift_valley_fever,Animal,75,,3,,,Senegal,ngao,"Ngao, Senegal",,Sahelian_acacia_savanna,15.21819889,-14.79712467
+29,86,path_86,2004,July_to_october,Rainy,Rift_valley_fever,Animal,47,,2,,,Senegal,ngao,"Ngao, Senegal",,Sahelian_acacia_savanna,15.21819889,-14.79712467
+29,87,path_87,2003,July_to_october,Rainy,Rift_valley_fever,Animal,45,,5,,,Senegal,niaka,"Niaka, Senegal",,Sahelian_acacia_savanna,15.29624869,-14.90269287
+29,88,path_88,2004,July_to_october,Rainy,Rift_valley_fever,Animal,33,,2,,,Senegal,niaka,"Niaka, Senegal",,Sahelian_acacia_savanna,15.29624869,-14.90269287
+36,89,path_89,2017,April,Dry,Trypanosomiasis,Animal,19,,,1,microscopy,Gambia,sambel_kunda,"Sambel Kunda, Gambia",,West_sudanian_savanna,13.553951,-15.261506
+36,90,path_90,2017,May,Dry,Trypanosomiasis,Animal,40,,,2,microscopy,Gambia,kuli_kunda,"Kuli Kunda, Gambia",,Guinean_forest_savanna_mosaic,13.33790581,-15.92131894
+36,91,path_91,2017,May,Dry,Trypanosomiasis,Animal,37,,,1,microscopy,Gambia,karantaba,"Karantaba, Gambia",,Guinean_mangroves,13.35226565,-16.15245381
+36,92,path_92,2017,May,Dry,Trypanosomiasis,Animal,40,,,2,microscopy,Gambia,tankular,"Tankular, Gambia",,Guinean_forest_savanna_mosaic,13.41742104,-16.0334578
+36,93,path_93,2017,April,Dry,Trypanosomiasis,Animal,32,,,0,microscopy,Gambia,yerro_bere_kunda,"Yerro Bere Kunda, Gambia",,West_sudanian_savanna,13.50298469,-14.74165985
+36,94,path_94,2017,April,Dry,Trypanosomiasis,Animal,30,,,0,microscopy,Gambia,yerro_bere_kunda,"Yerro Bere Kunda, Gambia",,West_sudanian_savanna,13.50298469,-14.74165985
+36,95,path_95,2017,June,Dry,Trypanosomiasis,Animal,10,,,0,microscopy,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33135085,-16.01034911
+36,96,path_96,2017,June,Dry,Trypanosomiasis,Animal,10,,,0,microscopy,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33135085,-16.01034911
+36,97,path_97,2017,June,Dry,Trypanosomiasis,Animal,19,,,1,microscopy,Gambia,jali,"Jali, Gambia",,Guinean_forest_savanna_mosaic,13.35171854,-15.96781157
+38,98,path_98,,,,Rift_valley_fever,Animal,46,,12,,,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33363555,-16.00944323
+38,99,path_99,,,,Rift_valley_fever,Animal,46,,25,,,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33363555,-16.00944323
+44,100,path_100,1995,November,Dry,Yellow_fever,Vector,699,19,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,101,path_101,1995,November,Dry,Yellow_fever,Vector,21,2,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,102,path_102,1995,November,Dry,Yellow_fever,Vector,1,1,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,103,path_103,1995,November,Dry,Yellow_fever,Vector,1,1,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,104,path_104,1995,November,Dry,Yellow_fever,Vector,5,0,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,105,path_105,1995,November,Dry,Yellow_fever,Vector,1,0,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,106,path_106,1995,November,Dry,Yellow_fever,Vector,1,0,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,107,path_107,1995,November,Dry,Yellow_fever,Vector,3,0,,,,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+45,108,path_108,2019,,,Avian_influenza,Human,,1,,,case_report,Senegal,ziguinchor,"Ziguinchor, Senegal",,Guinean_forest_savanna_mosaic,12.56365266,-16.26208013
+50,109,path_109,2021,June_to_october,Rainy,Rift_valley_fever,Human,,,36,,,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00702664,-13.68722412
+50,110,path_110,2021,Novermber_to_may,Dry,Rift_valley_fever,Human,,,17,,,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00702664,-13.68722412
+50,111,path_111,2021,June_to_october,Rainy,Rift_valley_fever,Animal,,,17,,,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+50,112,path_112,2021,Novermber_to_may,Dry,Rift_valley_fever,Animal,,,3,,,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+51,113,path_113,2003,January,Dry,Crimean_congo_haemorrhagic_fever,Human,,,1,,,Senegal,popenguine,"Popenguine, Senegal",,Guinean_forest_savanna_mosaic,14.55667493,-17.11139552
+53,114,path_114,2013_2014,April_to_march,Both,Rabies,Human,,51,,,,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71765117,-17.46857751
+60,115,path_115,1979,November,Dry,Yellow_fever,Human,79,,74,,,Senegal,toubakouta,"Toubakouta, Senegal",,Guinean_forest_savanna_mosaic,13.78207683,-16.46960076
+60,116,path_116,1979,November,Dry,Yellow_fever,Human,26,,25,,,Senegal,missirah,"Missirah, Senegal",,Guinean_forest_savanna_mosaic,13.68060122,-16.50076949
+60,117,path_117,1979,November,Dry,Yellow_fever,Human,10,,4,,,Senegal,keur_aliou_gueye,"Keur Aliou Gueye, Senegal",,Guinean_forest_savanna_mosaic,13.78459294,-16.41125641
+60,118,path_118,1979,November,Dry,Yellow_fever,Human,26,,25,,,Senegal,foundiougne,"Foundiougne, Senegal",,Guinean_forest_savanna_mosaic,14.12401404,-16.46707752
+70,119,path_119,1993,March,Dry,Trypanosomiasis,Animal,,,,6,prevalence,Gambia,dankunku,"Dankunku, Gambia",,,13.57130384,-15.32643275
+72,120,path_120,2021_2022,All_months,Both,Crimean_congo_haemorrhagic_fever,Human,335,,1,,,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+72,121,path_121,2021_2022,All_months,Both,Crimean_congo_haemorrhagic_fever,Animal,173,,69,,,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,122,path_122,2021_2022,All_months,Both,Crimean_congo_haemorrhagic_fever,Vector,2238,3,,,,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+74,123,path_123,1986_1994,All_months,Both,Rabies,Human,,,,,,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71777469,-17.46757778
+76,124,path_124,2010,September,Rainy,Yellow_fever,Vector,69,4,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,125,path_125,2010,October,Rainy,Yellow_fever,Vector,137,30,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,126,path_126,2010,November,Dry,Yellow_fever,Vector,53,1,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,127,path_127,2010,September,Rainy,Yellow_fever,Vector,52,4,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,128,path_128,2010,October,Rainy,Yellow_fever,Vector,75,11,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,129,path_129,2010,November,Dry,Yellow_fever,Vector,26,6,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,130,path_130,2010,September,Rainy,Yellow_fever,Vector,14,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,131,path_131,2010,October,Rainy,Yellow_fever,Vector,35,2,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,132,path_132,2010,November,Dry,Yellow_fever,Vector,33,2,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+78,133,path_133,1983,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.55539463,-12.18004146
+78,134,path_134,1993,November,Dry,Rift_valley_fever,Animal,,1,,,isolate,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,12.90020965,-14.94218441
+78,135,path_135,1993,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,136,path_136,1993,October,Rainy,Rift_valley_fever,Animal,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,137,path_137,1993,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,138,path_138,1993,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,139,path_139,1998,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,140,path_140,1998,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,141,path_141,1998,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,142,path_142,1998,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,143,path_143,2002,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,144,path_144,2002,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,145,path_145,2002,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,146,path_146,2002,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,147,path_147,2003,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,148,path_148,2003,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,149,path_149,2003,October,Rainy,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,150,path_150,2003,November,Dry,Rift_valley_fever,Vector,,1,,,isolate,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+79,151,path_151,1986_2005,All_months,Both,Rabies,Human,,3,,,case_report,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,16.03478884,-16.47959111
+79,152,path_152,1986_2005,All_months,Both,Rabies,Human,,6,,,case_report,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.6132748,-16.22697984
+79,153,path_153,1986_2005,All_months,Both,Rabies,Human,,7,,,case_report,Senegal,diourbel,"Diourbel, Senegal",,West_sudanian_savanna,14.65661895,-16.23330982
+79,154,path_154,1986_2005,All_months,Both,Rabies,Human,,9,,,case_report,Senegal,thies,"Thies, Senegal",,West_sudanian_savanna,14.79087382,-16.93688802
+79,155,path_155,1986_2005,All_months,Both,Rabies,Human,,11,,,case_report,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71831529,-17.46445764
+79,156,path_156,1986_2005,All_months,Both,Rabies,Human,,9,,,case_report,Senegal,fatick,"Fatick, Senegal",,West_sudanian_savanna,14.33902723,-16.41093527
+79,157,path_157,1986_2005,All_months,Both,Rabies,Human,,6,,,case_report,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.16557377,-16.07617531
+79,158,path_158,1986_2005,All_months,Both,Rabies,Human,,1,,,case_report,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.77189409,-13.66844694
+79,159,path_159,1986_2005,All_months,Both,Rabies,Human,,2,,,case_report,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,12.89986189,-14.94038929
+82,160,path_160,1997_1998,All_months,Both,Trypanosomiasis,Animal,,,,7.5,prevalence,Gambia,niamina,"Niamina, Gambia",,West_sudanian_savanna,13.66666667,-14.96666667
+82,161,path_161,1997_1998,All_months,Both,Trypanosomiasis,Animal,,,,17.1,prevalence,Gambia,bansang,"Bansang, Gambia",,West_sudanian_savanna,,
+83,162,path_162,1987_1988,November_february,Dry,Rift_valley_fever,Animal,37,,8,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.8792355,-14.21706495
+83,163,path_163,1987_1989,November_february,Dry,Rift_valley_fever,Animal,9,,2,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.2958918,-13.95508802
+83,164,path_164,1987_1990,November_february,Dry,Rift_valley_fever,Animal,16,,0,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.60354408,-13.31420507
+83,165,path_165,1987_1991,November_february,Dry,Rift_valley_fever,Animal,30,,1,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,14.67378299,-13.35401068
+83,166,path_166,1987_1992,November_february,Dry,Rift_valley_fever,Animal,41,,8,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.8792355,-14.21706495
+83,167,path_167,1987_1993,November_february,Dry,Rift_valley_fever,Animal,15,,2,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.2958918,-13.95508802
+83,168,path_168,1987_1994,November_february,Dry,Rift_valley_fever,Animal,20,,0,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,15.60354408,-13.31420507
+83,169,path_169,1987_1995,November_february,Dry,Rift_valley_fever,Animal,37,,5,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,14.67378299,-13.35401068
+83,170,path_170,1987_1996,November_february,Dry,Rift_valley_fever,Animal,78,,3,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.76439152,-16.44606756
+83,171,path_171,1987_1997,November_february,Dry,Rift_valley_fever,Animal,193,,11,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.61459741,-16.22886733
+83,172,path_172,1987_1998,November_february,Dry,Rift_valley_fever,Animal,60,,24,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.39348472,-15.10948433
+83,173,path_173,1987_1999,November_february,Dry,Rift_valley_fever,Animal,60,,1,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.50408663,-15.99071053
+83,174,path_174,1987_2000,November_february,Dry,Rift_valley_fever,Animal,76,,9,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.76439152,-16.44606756
+83,175,path_175,1987_2001,November_february,Dry,Rift_valley_fever,Animal,158,,8,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.61459741,-16.22886733
+83,176,path_176,1987_2002,November_february,Dry,Rift_valley_fever,Animal,55,,17,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.39348472,-15.10948433
+83,177,path_177,1987_2003,November_february,Dry,Rift_valley_fever,Animal,60,,2,,,Senegal,louga,"Louga, Senegal",,Sahelian_acacia_savanna,15.50408663,-15.99071053
+83,178,path_178,1987_2004,November_february,Dry,Rift_valley_fever,Animal,48,,2,,,Senegal,thies,"Thies, Senegal",,Guinean_forest_savanna_mosaic,14.7903872,-16.93651373
+83,179,path_179,1987_2005,November_february,Dry,Rift_valley_fever,Animal,47,,1,,,Senegal,thies,"Thies, Senegal",,Guinean_forest_savanna_mosaic,14.7903872,-16.93651373
+83,180,path_180,1987_2006,November_february,Dry,Rift_valley_fever,Animal,44,,6,,,Senegal,diourbel,"Diourbel, Senegal",,West_sudanian_savanna,14.86669404,-15.8992259
+83,181,path_181,1987_2007,November_february,Dry,Rift_valley_fever,Animal,30,,0,,,Senegal,diourbel,"Diourbel, Senegal",,West_sudanian_savanna,14.86669404,-15.8992259
+83,182,path_182,1987_2008,November_february,Dry,Rift_valley_fever,Animal,41,,3,,,Senegal,fatick,"Fatick, Senegal",,West_sudanian_savanna,14.1258715,-16.46652156
+83,183,path_183,1987_2009,November_february,Dry,Rift_valley_fever,Animal,42,,9,,,Senegal,fatick,"Fatick, Senegal",,West_sudanian_savanna,14.1258715,-16.46652156
+83,184,path_184,1987_2010,November_february,Dry,Rift_valley_fever,Animal,66,,3,,,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.16555105,-16.07527076
+83,185,path_185,1987_2011,November_february,Dry,Rift_valley_fever,Animal,33,,0,,,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.51330134,-14.71843732
+83,186,path_186,1987_2012,November_february,Dry,Rift_valley_fever,Animal,53,,11,,,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.16555105,-16.07527076
+83,187,path_187,1987_2013,November_february,Dry,Rift_valley_fever,Animal,35,,0,,,Senegal,kaolack,"Kaolack, Senegal",,West_sudanian_savanna,14.51330134,-14.71843732
+83,188,path_188,1987_2014,November_february,Dry,Rift_valley_fever,Animal,20,,0,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,14.1279916,-13.96756486
+83,189,path_189,1987_2015,November_february,Dry,Rift_valley_fever,Animal,21,,1,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.77256099,-13.66827449
+83,190,path_190,1987_2016,November_february,Dry,Rift_valley_fever,Animal,22,,1,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.07691959,-12.71372564
+83,191,path_191,1987_2017,November_february,Dry,Rift_valley_fever,Animal,12,,1,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,13.4026499,-12.54472485
+83,192,path_192,1987_2018,November_february,Dry,Rift_valley_fever,Animal,21,,0,,,Senegal,tambacounda,"Tambacounda, Senegal",,West_sudanian_savanna,14.01706087,-13.15576521
+83,193,path_193,1987_2019,November_february,Dry,Rift_valley_fever,Animal,45,,1,,,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,13.29779175,-15.73718212
+83,194,path_194,1987_2020,November_february,Dry,Rift_valley_fever,Animal,19,,0,,,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,13.23054687,-15.4339587
+83,195,path_195,1987_2021,November_february,Dry,Rift_valley_fever,Animal,34,,0,,,Senegal,kolda,"Kolda, Senegal",,Guinean_forest_savanna_mosaic,13.14936937,-14.10688167
+83,196,path_196,1987_2022,November_february,Dry,Rift_valley_fever,Animal,37,,1,,,Senegal,ziguinchor,"Ziguinchor, Senegal",,Guinean_forest_savanna_mosaic,12.56522068,-16.26211724
+87,197,path_197,2006_2012,All_months,Both,Rabies,Animal,49,3,,,,Gambia,fajara,"Fajara, Gambia",,Guinean_forest_savanna_mosaic,13.46965912,-16.6914082
+88,198,path_198,2001,,,Rabies,Human,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,199,path_199,2005,,,Rabies,Human,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,200,path_200,2011,,,Rabies,Animal,,1,,,isolate,Senegal,linguiere,"Linguiere, Senegal",,Sahelian_acacia_savanna,15.3957951,-15.11091882
+88,201,path_201,2010,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,202,path_202,2008,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,203,path_203,2011,,,Rabies,Animal,,1,,,isolate,Senegal,dahra,"Dahra, Senegal",,Sahelian_acacia_savanna,15.35614089,-15.48323864
+88,204,path_204,2011,,,Rabies,Animal,,1,,,isolate,Senegal,dahra,"Dahra, Senegal",,Sahelian_acacia_savanna,15.35614089,-15.48323864
+88,205,path_205,2013,,,Rabies,Animal,,1,,,isolate,Senegal,diamniadio,"Diamniadio, Senegal",,Guinean_mangroves,14.0657594,-16.57523295
+88,206,path_206,2010,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,207,path_207,2013,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,208,path_208,2014,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,209,path_209,2014,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,210,path_210,2013,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,211,path_211,2014,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,212,path_212,2007,,,Rabies,Human,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,213,path_213,2011,,,Rabies,Animal,,1,,,isolate,Senegal,dahra,"Dahra, Senegal",,Sahelian_acacia_savanna,15.35614089,-15.48323864
+88,214,path_214,2011,,,Rabies,Human,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+88,215,path_215,2015,,,Rabies,Animal,,1,,,isolate,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.7159504,-17.46441283
+91,216,path_216,2002,October,Rainy,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.2951043,-14.90534271
+91,217,path_217,2002,November,Dry,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.2900152,-14.9553885
+91,218,path_218,2002,October,Rainy,Rift_valley_fever,Vector,16631,10,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.28642217,-14.88453452
+91,219,path_219,2002,November,Dry,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27750099,-14.86717637
+91,220,path_220,2002,October,Rainy,Rift_valley_fever,Vector,3403,4,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.90534271
+91,221,path_221,2002,November,Dry,Rift_valley_fever,Vector,17712,25,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.9553885
+91,222,path_222,2002,October,Rainy,Rift_valley_fever,Vector,429,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.88453452
+91,223,path_223,2002,November,Dry,Rift_valley_fever,Vector,3315,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.86717637
+91,224,path_224,2002,October,Rainy,Rift_valley_fever,Vector,1114,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.90534271
+91,225,path_225,2002,November,Dry,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.9553885
+91,226,path_226,2003,October,Rainy,Rift_valley_fever,Vector,1,1,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.88453452
+91,227,path_227,2003,November,Dry,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.86717637
+91,228,path_228,2003,October,Rainy,Rift_valley_fever,Vector,102,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.90534271
+91,229,path_229,2003,November,Dry,Rift_valley_fever,Vector,0,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.9553885
+91,230,path_230,2003,October,Rainy,Rift_valley_fever,Vector,2996,3,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.88453452
+91,231,path_231,2003,November,Dry,Rift_valley_fever,Vector,2194,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.86717637
+91,232,path_232,2003,October,Rainy,Rift_valley_fever,Vector,625,1,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.90534271
+91,233,path_233,2003,November,Dry,Rift_valley_fever,Vector,443,1,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.9553885
+91,234,path_234,2003,October,Rainy,Rift_valley_fever,Vector,903,1,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.88453452
+91,235,path_235,2003,November,Dry,Rift_valley_fever,Vector,118,0,,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,,-14.86717637
+96,236,path_236,1988,January,Dry,Rift_valley_fever,Animal,7,,4,,,Senegal,farafenni,"Farafenni, Senegal",,West_sudanian_savanna,13.5724095,-15.59991637
+96,237,path_237,1988,January,Dry,Rift_valley_fever,Animal,108,,44,,,Senegal,farafenni,"Farafenni, Senegal",,West_sudanian_savanna,13.5724095,-15.59991637
+96,238,path_238,1988,January,Dry,Rift_valley_fever,Animal,21,,8,,,Senegal,farafenni,"Farafenni, Senegal",,West_sudanian_savanna,13.5724095,-15.59991637
+96,239,path_239,1988,January,Dry,Rift_valley_fever,Animal,10,,0,,,Senegal,somone,"Somone, Senegal",,Guinean_forest_savanna_mosaic,14.4850848,-17.07466457
+96,240,path_240,1988,January,Dry,Rift_valley_fever,Animal,19,,1,,,Senegal,somone,"Somone, Senegal",,Guinean_forest_savanna_mosaic,14.4850848,-17.07466457
+96,241,path_241,1988,January,Dry,Rift_valley_fever,Animal,17,,13,,,Senegal,dagana,"Dagana, Senegal",,Sahelian_acacia_savanna,16.51116222,-15.50232689
+96,242,path_242,1988,January,Dry,Rift_valley_fever,Animal,128,,86,,,Senegal,dagana,"Dagana, Senegal",,Sahelian_acacia_savanna,16.51116222,-15.50232689
+96,243,path_243,1988,January,Dry,Rift_valley_fever,Animal,327,,199,,,Senegal,dagana,"Dagana, Senegal",,Sahelian_acacia_savanna,16.51116222,-15.50232689
+99,244,path_244,2012,October,Rainy,Rift_valley_fever,Human,1,1,,,,Senegal,baya,"Baya, Senegal",,West_sudanian_savanna,12.39335791,-12.56001523
+99,245,path_245,2012,October,Rainy,Rift_valley_fever,Human,333,,3,,,Senegal,ibel,"Ibel, Senegal",,West_sudanian_savanna,12.51082639,-12.38073708
+100,246,path_246,2015,August,Rainy,Rift_valley_fever,Animal,66,,1,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,247,path_247,2015,August,Rainy,Rift_valley_fever,Animal,28,,0,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,248,path_248,2015,August,Rainy,Rift_valley_fever,Animal,26,,0,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,249,path_249,2015,September,Rainy,Rift_valley_fever,Animal,174,,16,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,250,path_250,2015,September,Rainy,Rift_valley_fever,Animal,85,,12,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,251,path_251,2015,September,Rainy,Rift_valley_fever,Animal,11,,3,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,252,path_252,2015,December,Dry,Rift_valley_fever,Animal,95,,19,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,253,path_253,2015,December,Dry,Rift_valley_fever,Animal,22,,3,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,254,path_254,2015,December,Dry,Rift_valley_fever,Animal,33,,7,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,255,path_255,2016,January,Dry,Rift_valley_fever,Animal,94,,13,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,256,path_256,2016,January,Dry,Rift_valley_fever,Animal,26,,8,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+100,257,path_257,2016,May,Dry,Rift_valley_fever,Animal,168,,24,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26456245,-14.44519342
+100,258,path_258,2016,May,Dry,Rift_valley_fever,Animal,54,,10,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26471464,-14.44984076
+101,259,path_259,1989,February_to_may,Dry,Rift_valley_fever,Human,273,,61,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,260,path_260,1989,February_to_may,Dry,Rift_valley_fever,Animal,375,,113,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+102,261,path_261,2003,July_to_october,Rainy,Rift_valley_fever,Animal,100,,0,,,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27748259,-14.86746394
+102,262,path_262,2003,July_to_october,Rainy,Rift_valley_fever,Animal,40,,1,,,Senegal,furdu,"Furdu, Senegal",,Sahelian_acacia_savanna,15.22194049,-14.82378423
+102,263,path_263,2003,July_to_october,Rainy,Rift_valley_fever,Animal,86,,14,,,Senegal,kangaledji,"Kangaledji, Senegal",,Sahelian_acacia_savanna,15.26654812,-14.85807011
+102,264,path_264,2003,July_to_october,Rainy,Rift_valley_fever,Animal,101,,3,,,Senegal,loumbel_lana,"Loumbel Lana, Senegal",,Sahelian_acacia_savanna,15.26664133,-14.73308908
+102,265,path_265,2003,July_to_october,Rainy,Rift_valley_fever,Animal,90,,3,,,Senegal,ngao,"Ngao, Senegal",,Sahelian_acacia_savanna,15.21663381,-14.79954877
+102,266,path_266,2003,July_to_october,Rainy,Rift_valley_fever,Animal,94,,5,,,Senegal,niaka,"Niaka, Senegal",,Sahelian_acacia_savanna,15.2946202,-14.90687148
+102,267,path_267,2003,July_to_october,Rainy,Rift_valley_fever,Animal,99,,0,,,Senegal,yaralope,"Yaralope, Senegal",,Sahelian_acacia_savanna,15.39724786,-14.78328415
+105,268,path_268,1995,April,Dry,Rift_valley_fever,Human,270,,21,,,Senegal,saint_louis,"Saint Louis, Senegal",,Sahelian_acacia_savanna,16.03253742,-16.48150495
+105,269,path_269,1996,October,Rainy,Rift_valley_fever,Human,112,,22,,,Senegal,nder,"Nder, Senegal",,Sahelian_acacia_savanna,16.2593509,-15.88382828
+105,270,path_270,1995,January,Dry,Rift_valley_fever,Human,61,,13,,,Senegal,rosso,"Rosso, Senegal",,Sahelian_acacia_savanna,16.49955488,-15.81293311
+105,271,path_271,1995,June,Rainy,Rift_valley_fever,Human,165,,46,,,Senegal,rosso,"Rosso, Senegal",,Sahelian_acacia_savanna,16.49955488,-15.81293311
+105,272,path_272,1996,March,Dry,Rift_valley_fever,Human,459,,60,,,Senegal,podor,"Podor, Senegal",,Sahelian_acacia_savanna,16.6601114,-14.95898275
+105,273,path_273,1996,December,Dry,Rift_valley_fever,Human,279,,43,,,Senegal,podor,"Podor, Senegal",,Sahelian_acacia_savanna,16.6601114,-14.95898275
+105,274,path_274,1994,June_to_december,Both,Rift_valley_fever,Animal,40,,16,,,Senegal,ross_bethio,"Ross Bethio, Senegal",,Sahelian_acacia_savanna,16.27759604,-16.13908283
+105,275,path_275,1994,June_to_december,Both,Rift_valley_fever,Animal,,,1,,case_report,Senegal,niandane,"Niandane, Senegal",,Sahelian_acacia_savanna,16.59421161,-14.98994486
+105,276,path_276,1994,June_to_december,Both,Rift_valley_fever,Animal,,,1,,case_report,Senegal,niassante,"Niassante, Senegal",,Sahelian_acacia_savanna,16.16826272,-15.55007113
+105,277,path_277,1994,June_to_december,Both,Rift_valley_fever,Animal,,,1,,case_report,Senegal,rao,"Rao, Senegal",,Sahelian_acacia_savanna,15.92278959,-16.39621292
+105,278,path_278,1994,June_to_december,Both,Rift_valley_fever,Animal,,,1,,case_report,Senegal,m_pal,"M Pal, Senegal",,Sahelian_acacia_savanna,15.92126937,-16.26665349
+108,279,path_279,1989,February_to_may,Dry,Crimean_congo_haemorrhagic_fever,Human,283,,37,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26340278,-14.45238871
+108,280,path_280,1989,February_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,371,,35,,,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26340278,-14.45238871
+112,281,path_281,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,125,,37,,,Gambia,abuko,"Abuko, Gambia",,Guinean_mangroves,13.39943559,-16.65436282
+112,282,path_282,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,51,,10,,,Gambia,abuko,"Abuko, Gambia",,Guinean_mangroves,13.39943559,-16.65436282
+112,283,path_283,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,34,,8,,,Gambia,basse,"Basse, Gambia",,West_sudanian_savanna,13.30938791,-14.21879286
+112,284,path_284,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,79,,10,,,Gambia,basse,"Basse, Gambia",,West_sudanian_savanna,13.30938791,-14.21879286
+112,285,path_285,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,34,,1,,,Gambia,brikama,"Brikama, Gambia",,Guinean_mangroves,13.27480186,-16.64075122
+112,286,path_286,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,91,,7,,,Gambia,brikama,"Brikama, Gambia",,Guinean_mangroves,13.27480186,-16.64075122
+112,287,path_287,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,53,,6,,,Gambia,brikamaba,"Brikamaba, Gambia",,West_sudanian_savanna,13.5364385,-14.93122785
+112,288,path_288,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,38,,2,,,Gambia,brikamaba,"Brikamaba, Gambia",,West_sudanian_savanna,13.5364385,-14.93122785
+112,289,path_289,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,21,,1,,,Gambia,farafenni,"Farafenni, Gambia",,West_sudanian_savanna,13.57217219,-15.59982548
+112,290,path_290,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,56,,1,,,Gambia,farafenni,"Farafenni, Gambia",,West_sudanian_savanna,13.57217219,-15.59982548
+112,291,path_291,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,129,,11,,,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33164051,-16.00955043
+112,292,path_292,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,152,,7,,,Gambia,keneba,"Keneba, Gambia",,Guinean_forest_savanna_mosaic,13.33164051,-16.00955043
+112,293,path_293,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,11,,1,,,Gambia,soma,"Soma, Gambia",,West_sudanian_savanna,13.44421532,-15.53882803
+112,294,path_294,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,45,,2,,,Gambia,soma,"Soma, Gambia",,West_sudanian_savanna,13.44421532,-15.53882803
+112,295,path_295,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,63,,24,,,Gambia,sololo,"Sololo, Gambia",,West_sudanian_savanna,13.45166851,-14.6791525
+112,296,path_296,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,32,,10,,,Gambia,sololo,"Sololo, Gambia",,West_sudanian_savanna,13.45166851,-14.6791525
+112,297,path_297,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,30,,24,,,Gambia,bajana,"Bajana, Gambia",,Guinean_forest_savanna_mosaic,13.31266128,-15.88516
+112,298,path_298,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,40,,12,,,Gambia,bateling,"Bateling, Gambia",,West_sudanian_savanna,13.40868358,-15.84273318
+112,299,path_299,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,65,,28,,,Gambia,dumbuto,"Dumbuto, Gambia",,Guinean_forest_savanna_mosaic,13.3493711,-15.83246456
+112,300,path_300,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,30,,13,,,Gambia,jali,"Jali, Gambia",,Guinean_forest_savanna_mosaic,13.3517479,-15.96771388
+112,301,path_301,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,30,,24,,,Gambia,jiffarong,"Jiffarong, Gambia",,Guinean_forest_savanna_mosaic,13.3015598,-15.86848457
+112,302,path_302,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,30,,22,,,Gambia,kuli_kunda,"Kuli Kunda, Gambia",,Guinean_forest_savanna_mosaic,13.337864,-15.92215592
+112,303,path_303,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,49,,36,,,Gambia,jataba,"Jataba, Gambia",,Guinean_forest_savanna_mosaic,13.27398818,-15.82695056
+112,304,path_304,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,45,,15,,,Gambia,sankandi,"Sankandi, Gambia",,Guinean_forest_savanna_mosaic,13.2921164,-15.82971321
+112,305,path_305,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,30,,23,,,Gambia,tankular,"Tankular, Gambia",,Guinean_forest_savanna_mosaic,13.41745548,-16.03395362
+112,306,path_306,2021,April_to_may,Dry,Crimean_congo_haemorrhagic_fever,Animal,50,,42,,,Gambia,wudeba,"Wudeba, Gambia",,Guinean_forest_savanna_mosaic,13.32029786,-15.83071252
+116,307,path_307,1993,November,Dry,Yellow_fever,Human,411,,317,,,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56156928,-12.17741391
+116,308,path_308,1994,January,Dry,Yellow_fever,Animal,40,,37,,,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56114564,-12.17380517
+116,309,path_309,1994,January,Dry,Yellow_fever,Animal,8,,6,,,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56114564,-12.17380517
+116,310,path_310,1994,January,Dry,Yellow_fever,Animal,5,,5,,,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56114564,-12.17380517
+116,311,path_311,1993,July,Rainy,Yellow_fever,Vector,61,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,312,path_312,1993,October_to_november,Both,Yellow_fever,Vector,182,123,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,313,path_313,1993,July,Rainy,Yellow_fever,Vector,16,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,314,path_314,1993,October_to_november,Both,Yellow_fever,Vector,77,39,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,315,path_315,1993,July,Rainy,Yellow_fever,Vector,1,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,316,path_316,1993,July,Rainy,Yellow_fever,Vector,18,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,317,path_317,1993,October_to_november,Both,Yellow_fever,Vector,54,25,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,318,path_318,1993,July,Rainy,Yellow_fever,Vector,7,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,319,path_319,1993,October_to_november,Both,Yellow_fever,Vector,11,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,320,path_320,1993,July,Rainy,Yellow_fever,Vector,1,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,321,path_321,1993,October_to_november,Both,Yellow_fever,Vector,12,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,322,path_322,1993,July,Rainy,Yellow_fever,Vector,3,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,323,path_323,1993,October_to_november,Both,Yellow_fever,Vector,2,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,324,path_324,1993,July,Rainy,Yellow_fever,Vector,1,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,325,path_325,1993,July,Rainy,Yellow_fever,Vector,36,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,326,path_326,1993,October_to_november,Both,Yellow_fever,Vector,15,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,327,path_327,1993,July,Rainy,Yellow_fever,Vector,5,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,328,path_328,1993,October_to_november,Both,Yellow_fever,Vector,32,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,329,path_329,1993,July,Rainy,Yellow_fever,Vector,4,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,330,path_330,1993,October_to_november,Both,Yellow_fever,Vector,2,0,,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+119,331,path_331,2013,November,Dry,Rift_valley_fever,Human,1,,1,,,Senegal,linguiere,"Linguiere, Senegal",,Sahelian_acacia_savanna,15.39585248,-15.11100229
+119,332,path_332,2013,November,Dry,Rift_valley_fever,Human,196,,25,,,Senegal,mbour,"Mbour, Senegal",,Guinean_forest_savanna_mosaic,14.42044066,-16.9719456
+119,333,path_333,2013,November,Dry,Rift_valley_fever,Human,338,,9,,,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.55845163,-12.1712083
+119,334,path_334,2013,November,Dry,Rift_valley_fever,Animal,40,,30,,,Senegal,mbour,"Mbour, Senegal",,Guinean_forest_savanna_mosaic,14.42044066,-16.9719456
+119,335,path_335,2013,November,Dry,Rift_valley_fever,Animal,33,8,,,,Senegal,guembeul,"Guembeul, Senegal",,Sahelian_acacia_savanna,15.93374701,-16.4655498
+119,336,path_336,2013,November,Dry,Rift_valley_fever,Animal,168,31,,,,Senegal,diama,"Diama, Senegal",,Sahelian_acacia_savanna,16.20809854,-16.40392972
+119,337,path_337,2013,November,Dry,Rift_valley_fever,Animal,40,6,,,,Senegal,ngnith,"Ngnith, Senegal",,Sahelian_acacia_savanna,16.17948486,-15.91129593
+119,338,path_338,2013,November,Dry,Rift_valley_fever,Animal,190,7,,,,Senegal,dakar,"Dakar, Senegal",,West_sudanian_savanna,14.71592411,-17.46652194
+123,339,path_339,2020,October,Rainy,Yellow_fever,Human,,,1,,case_report,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,340,path_340,2020,October,Rainy,Yellow_fever,Human,,,1,,case_report,Senegal,bakel,"Bakel, Senegal",,West_sudanian_savanna,14.90661831,-12.46043508
+123,341,path_341,2020,November,Dry,Yellow_fever,Human,,,1,,case_report,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,342,path_342,2020,November,Dry,Yellow_fever,Human,,,1,,case_report,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,343,path_343,2020,November,Dry,Yellow_fever,Human,,,1,,case_report,Senegal,matam,"Matam, Senegal",,Sahelian_acacia_savanna,15.66020189,-13.25776785
+123,344,path_344,2020_2021,September_to_may,Both,Yellow_fever,Human,421,,13,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,345,path_345,2020_2021,September_to_may,Both,Yellow_fever,Human,120,,4,,sample size equal number of vector pools,Senegal,saraya,"Saraya, Senegal",,West_sudanian_savanna,12.83622957,-11.75531067
+123,346,path_346,2020,August,Rainy,Yellow_fever,Vector,97,,0,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,347,path_347,2020,August,Rainy,Yellow_fever,Vector,9,,0,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,348,path_348,2020,August,Rainy,Yellow_fever,Vector,108,,6,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,349,path_349,2020,August,Rainy,Yellow_fever,Vector,58,,3,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,350,path_350,2020,August,Rainy,Yellow_fever,Vector,33,,1,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,351,path_351,2020,August,Rainy,Yellow_fever,Vector,86,,0,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,352,path_352,2020,September,Rainy,Yellow_fever,Vector,65,,0,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,353,path_353,2020,September,Rainy,Yellow_fever,Vector,11,,1,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,354,path_354,2020,September,Rainy,Yellow_fever,Vector,74,,7,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,355,path_355,2020,September,Rainy,Yellow_fever,Vector,33,,5,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,356,path_356,2020,September,Rainy,Yellow_fever,Vector,15,,1,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,357,path_357,2020,September,Rainy,Yellow_fever,Vector,64,,1,,sample size equal number of vector pools,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,358,path_358,2020,November,Dry,Yellow_fever,Vector,4,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,359,path_359,2020,November,Dry,Yellow_fever,Vector,0,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,360,path_360,2020,November,Dry,Yellow_fever,Vector,0,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,361,path_361,2020,November,Dry,Yellow_fever,Vector,0,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,362,path_362,2020,November,Dry,Yellow_fever,Vector,0,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,363,path_363,2020,November,Dry,Yellow_fever,Vector,0,,0,,sample size equal number of vector pools,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+124,364,path_364,1996,November,Dry,Yellow_fever,Human,12,,9,,,Senegal,kaffrine,"Kaffrine, Senegal",,West_sudanian_savanna,14.1044778,-15.5504066
+124,365,path_365,1996,November,Dry,Yellow_fever,Human,167,,37,,,Senegal,dougounbene,"Dougounbene, Senegal",,West_sudanian_savanna,14.13147133,-15.58473371
+124,366,path_366,1996,November,Dry,Yellow_fever,Human,78,,16,,,Senegal,katiawane,"Katiawane, Senegal",,West_sudanian_savanna,13.95003164,-15.51663364
+124,367,path_367,1996,November,Dry,Yellow_fever,Human,67,,9,,,Senegal,lanta,"Lanta, Senegal",,West_sudanian_savanna,14.07054282,-15.58844115
+124,368,path_368,1996,November,Dry,Yellow_fever,Human,42,,10,,,Senegal,mbollop,"Mbollop, Senegal",,West_sudanian_savanna,13.93275056,-15.54265993
+124,369,path_369,1996,November,Dry,Yellow_fever,Human,83,,19,,,Senegal,nianghene,"Nianghene, Senegal",,West_sudanian_savanna,13.9668678,-15.60003409
+126,370,path_370,2004,November,Dry,Crimean_congo_haemorrhagic_fever,Human,,,1,,case_report,Senegal,saly,"Saly, Senegal",,Guinean_forest_savanna_mosaic,14.44382957,-16.98926643
+127,372,path_372,2004,November,Dry,Crimean_congo_haemorrhagic_fever,Human,,,1,,case_report,Senegal,saly,"Saly, Senegal",,Guinean_forest_savanna_mosaic,14.44467164,-16.99023965
+129,373,path_373,1965,November,Dry,Yellow_fever,Human,,15,,,case_report,Senegal,ngoye,"Ngoye, Senegal",,West_sudanian_savanna,14.64175597,-16.43463938
+129,374,path_374,1965,November,Dry,Yellow_fever,Human,,,10,,case_report,Senegal,ngoye,"Ngoye, Senegal",,West_sudanian_savanna,14.64204519,-16.43370395
+242,375,path_375,2018_2019,All_months,Both,Avian_influenza,Animal,69,19,,,,Senegal,dakar,"Dakar, Senegal",,,,
+242,376,path_376,2018_2019,All_months,Both,Avian_influenza,Animal,109,41,,,,Senegal,diourbel,"Diourbel, Senegal",,,,
+242,377,path_377,2018_2019,All_months,Both,Avian_influenza,Animal,778,232,,,,Senegal,fatick,"Fatick, Senegal",,,,
+242,378,path_378,2018_2019,All_months,Both,Avian_influenza,Animal,15,3,,,,Senegal,kaffrine,"Kaffrine, Senegal",,,,
+242,379,path_379,2018_2019,All_months,Both,Avian_influenza,Animal,20,2,,,,Senegal,kaolack,"Kaolack, Senegal",,,,
+242,380,path_380,2018_2019,All_months,Both,Avian_influenza,Animal,43,11,,,,Senegal,louga,"Louga, Senegal",,,,
+242,381,path_381,2018_2019,All_months,Both,Avian_influenza,Animal,44,9,,,,Senegal,saint_louis,"Saint Louis, Senegal",,,,
+242,382,path_382,2018_2019,All_months,Both,Avian_influenza,Animal,449,153,,,,Senegal,thies,"Thies, Senegal",,,,
+247,383,path_383,2020,December,Dry,Avian_influenza,Animal,3,3,,,isolate,Senegal,thies,"Thies, Senegal",,,14.781388,-17.042222
+247,384,path_384,2021,January,Dry,Avian_influenza,Animal,1,1,,,isolate,Senegal,djoudj,"Djoudj, Senegal",,,16.352169,-16.277897
+232,385,path_385,2021,October,Rainy,Avian_influenza,Human,53,34,,,,Senegal,touba,"Touba, Senegal",,,14.86665102,-15.8981378
+352,386,path_386,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,12,10,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,387,path_387,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,6,1,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,388,path_388,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,3,2,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,389,path_389,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,4,2,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,390,path_390,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,51,10,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,391,path_391,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,1,0,,,,Senegal,gankette,"Gankette, Senegal",,,15.98072222,-15.9285
+352,392,path_392,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,30,18,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,393,path_393,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,2,0,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,394,path_394,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,5,0,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,395,path_395,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,7,3,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,396,path_396,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,12,1,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,397,path_397,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,16,1,,,,Senegal,loboudou,"Loboudou, Senegal",,,15.95305,-15.919963
+352,398,path_398,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,22,17,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941
+352,399,path_399,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,21,4,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941
+352,400,path_400,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,3,0,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941
+352,401,path_401,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,3,3,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941
+352,402,path_402,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,73,19,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941
+352,403,path_403,2014,June,Rainy,Crimean_congo_haemorrhagic_fever,Animal,12,1,,,,Senegal,ndimb,"Ndimb, Senegal",,,16.049155,-16.002941

@@ -1,0 +1,932 @@
+study_id,vector_id,vector_id_new,year,month,season,genus,species,sample_size,country,location_name,full_location_name,topography,ecoregion,gps_latitude,gps_longitude
+2,1,vec_1,1978,November,Dry,Aedes,furcifer_taylori,19,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.4349958,-14.65198532
+2,2,vec_2,1978,November,Dry,Aedes,vittatus,2,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.4349958,-14.65198532
+2,3,vec_3,1978,November,Dry,Culex,antennatus,5,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.4349958,-14.65198532
+2,4,vec_4,1978,November,Dry,Culex,poicilipes,3,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.4349958,-14.65198532
+2,5,vec_5,1978,November,Dry,Culex,neavei,3,Gambia,bansang,"Bansang, Gambia",Flood_plain,West_sudanian_savanna,13.4349958,-14.65198532
+12,6,vec_6,2015,July_to_december,Both,Aedes,africana,106,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,7,vec_7,2015,July_to_december,Both,Aedes,furcifer,2823,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,8,vec_8,2015,July_to_december,Both,Aedes,luteocephalus,1107,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,9,vec_9,2015,July_to_december,Both,Aedes,taylori,130,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,10,vec_10,2015,July_to_december,Both,Aedes,vittatus,2034,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,11,vec_11,2015,July_to_december,Both,Aedes,aegypti,236,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,12,vec_12,2015,July_to_december,Both,Aedes,dalzieli,2286,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,13,vec_13,2015,July_to_december,Both,Aedes,metallicus,54,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,14,vec_14,2015,July_to_december,Both,Aedes,vexans,0,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,15,vec_15,2015,July_to_december,Both,Culex,neavei,13,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,16,vec_16,2015,July_to_december,Both,Culex,poicilipes,30,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,17,vec_17,2015,July_to_december,Both,Culex,antennatus,19,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,18,vec_18,2015,July_to_december,Both,Culex,perfuscus,17,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,19,vec_19,2015,July_to_december,Both,Culex,quinquefasciatus,98,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,20,vec_20,2015,July_to_december,Both,Anopheles,coustani,422,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,21,vec_21,2015,July_to_december,Both,Mansonia,africana,48,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+12,22,vec_22,2015,July_to_december,Both,Mansonia,uniformis,182,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56142659,-12.17128667
+17,23,vec_23,2021,February,Dry,Hyalomma,marginatum_rufipes,12,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,24,vec_24,2021,February,Dry,Hyalomma,truncatum,37,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,25,vec_25,2021,February,Dry,Rhipicephalus,evertesi_evertesi,77,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,26,vec_26,2021,February,Dry,Rhipicephalus,muhsamae,108,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,27,vec_27,2021,February,Dry,Rhipicephalus,guilhoni,220,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+17,28,vec_28,2021,February,Dry,Hyalomma,impeltatum,1784,Senegal,agnam_civol,"Agnam Civol, Senegal",Desert,Sahelian_acacia_savanna,16.00817546,-13.68320371
+21,29,vec_29,2021,July,Rainy,,multiple_tick_spp,1633,Senegal,bandia,"Bandia, Senegal",Savanna,West_sudanian_savanna,14.62547031,-17.01797222
+21,30,vec_30,2021,July,Rainy,,multiple_tick_spp,485,Senegal,haere_lao,"Haere Lao, Senegal",Desert,Sahelian_acacia_savanna,16.4006331,-14.32384402
+21,31,vec_31,2021,July,Rainy,,multiple_tick_spp,233,Senegal,kassack,"Kassack, Senegal",Desert,Sahelian_acacia_savanna,16.39684535,-15.99074194
+21,32,vec_32,2021,July,Rainy,,multiple_tick_spp,1389,Senegal,kolda,"Kolda, Senegal",Forest,Guinean_forest_savanna_mosaic,12.90085667,-14.9436033
+21,33,vec_33,2021,July,Rainy,,multiple_tick_spp,291,Senegal,nabadji,"Nabadji, Senegal",Desert,Sahelian_acacia_savanna,15.7378981,-13.3890316
+21,34,vec_34,2021,July,Rainy,,multiple_tick_spp,536,Senegal,saint_louis,"Saint Louis, Senegal",Desert,Sahelian_acacia_savanna,16.03270582,-16.48172816
+21,35,vec_35,2021,July,Rainy,,multiple_tick_spp,1351,Senegal,tatki,"Tatki, Senegal",Desert,Sahelian_acacia_savanna,16.23073385,-15.28236989
+21,36,vec_36,2021,July,Rainy,,multiple_tick_spp,217,Senegal,tessekere,"Tessekere, Senegal",,Sahelian_acacia_savanna,15.84134073,-14.97638397
+44,38,vec_38,1995,November,Dry,Aedes,aegypti,699,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,39,vec_39,1995,November,Dry,Aedes,furcifer,21,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,40,vec_40,1995,November,Dry,Aedes,luteocephalus,1,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,41,vec_41,1995,November,Dry,Aedes,metallicus,1,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,42,vec_42,1995,November,Dry,Aedes,vittatus,5,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,43,vec_43,1995,November,Dry,Aedes,fowleri,1,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,44,vec_44,1995,November,Dry,Aedes,sudanensis,1,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+44,45,vec_45,1995,November,Dry,Aedes,vexans,3,Senegal,koungheul,"Koungheul, Senegal",,West_sudanian_savanna,13.9800968,-14.80110891
+60,46,vec_46,1979,November,Dry,Aedes,aegypti,37,Senegal,toubakouta,"Toubakouta, Senegal",,Guinean_forest_savanna_mosaic,13.78207683,-16.46960076
+60,47,vec_47,1979,November,Dry,Aedes,luteocephalus,1,Senegal,toubakouta,"Toubakouta, Senegal",,Guinean_forest_savanna_mosaic,13.78207683,-16.46960076
+60,48,vec_48,1979,November,Dry,Aedes,furcifer_taylori,6,Senegal,toubakouta,"Toubakouta, Senegal",,Guinean_forest_savanna_mosaic,13.78207683,-16.46960076
+60,49,vec_49,1979,November,Dry,Aedes,aegypti,1,Senegal,karang,"Karang, Senegal",,Guinean_forest_savanna_mosaic,13.60504976,-16.42610138
+60,50,vec_50,1979,November,Dry,Aedes,aegypti,6,Senegal,sokone,"Sokone, Senegal",,Guinean_forest_savanna_mosaic,13.8777746,-16.37268552
+60,51,vec_51,1979,November,Dry,Aedes,luteocephalus,1,Senegal,sokone,"Sokone, Senegal",,Guinean_forest_savanna_mosaic,13.8777746,-16.37268552
+60,52,vec_52,1979,November,Dry,Aedes,aegypti,4,Senegal,foundiougne,"Foundiougne, Senegal",,Guinean_forest_savanna_mosaic,14.12401404,-16.46707752
+70,53,vec_53,1993,March,Dry,Glossina,morsitans,664,Senegal,dankunku,"Dankunku, Senegal",,West_sudanian_savanna,13.57119537,-15.32619487
+72,54,vec_54,2021_2022,All_months,Both,Hyalomma,impeltatum,1784,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,55,vec_55,2021_2022,All_months,Both,Rhipicephalus,guilhoni,220,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,56,vec_56,2021_2022,All_months,Both,Rhipicephalus,muhsamae,108,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,57,vec_57,2021_2022,All_months,Both,Rhipicephalus,evertesi_evertesi,77,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,58,vec_58,2021_2022,All_months,Both,Hyalomma,truncatum,37,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+72,59,vec_59,2021_2022,All_months,Both,Hyalomma,marginatum_rufipes,12,Senegal,idite,"Idite, Senegal",Desert,Sahelian_acacia_savanna,15.91783314,-13.71734984
+76,60,vec_60,2010,September,Rainy,Aedes,furcifer,708,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,61,vec_61,2010,October,Rainy,Aedes,furcifer,1916,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,62,vec_62,2010,November,Rainy,Aedes,furcifer,269,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,63,vec_63,2010,September,Rainy,Aedes,luteocephalus,702,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,64,vec_64,2010,October,Rainy,Aedes,luteocephalus,1148,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,65,vec_65,2010,November,Rainy,Aedes,luteocephalus,160,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,66,vec_66,2010,September,Rainy,Aedes,taylori,97,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,67,vec_67,2010,October,Rainy,Aedes,taylori,172,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+76,68,vec_68,2010,November,Rainy,Aedes,taylori,261,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.56022099,-12.17433629
+78,69,vec_69,1983,October,Rainy,Aedes,dalzieli,1,Senegal,kedougou,"Kedougou, Senegal",Highlands,West_sudanian_savanna,12.55539463,-12.18004146
+78,70,vec_70,1993,October,Rainy,Aedes,vexans,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,71,vec_71,1993,October,Rainy,Aedes,vexans,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,72,vec_72,1993,October,Rainy,Aedes,vexans,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27755723,-14.86739345
+78,73,vec_73,1998,November,Dry,Culex,poicilipes,1,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,74,vec_74,1998,November,Dry,Culex,poicilipes,1,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,75,vec_75,1998,November,Dry,Culex,poicilipes,1,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,76,vec_76,1998,November,Dry,Culex,poicilipes,1,Senegal,diawara,"Diawara, Senegal",,Sahelian_acacia_savanna,15.01865142,-12.54385367
+78,77,vec_77,2002,October,Rainy,Aedes,vexans,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,78,vec_78,2002,November,Dry,Culex,poicilipes,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,79,vec_79,2002,November,Dry,Culex,poicilipes,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,80,vec_80,2002,November,Dry,Culex,poicilipes,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,81,vec_81,2003,October,Rainy,Culex,poicilipes,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,82,vec_82,2003,October,Rainy,Culex,poicilipes,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,83,vec_83,2003,October,Rainy,Mansonia,uniformis,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+78,84,vec_84,2003,November,Dry,Mansonia,africana,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27729708,-14.86687941
+91,218,vec_218,2002,October,Rainy,Aedes,vexans,16631,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,220,vec_220,2002,October,Rainy,Culex,poicilipes,3403,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,221,vec_221,2002,November,Dry,Culex,poicilipes,17712,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,222,vec_222,2002,October,Rainy,Mansonia,africana,429,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,223,vec_223,2002,November,Dry,Mansonia,africana,3315,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,224,vec_224,2002,October,Rainy,Mansonia,uniformis,1114,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,226,vec_226,2003,October,Rainy,Aedes,fowleri,1,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,228,vec_228,2003,October,Rainy,Aedes,vexans,102,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,230,vec_230,2003,October,Rainy,Culex,poicilipes,2996,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,231,vec_231,2003,November,Dry,Culex,poicilipes,2194,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,232,vec_232,2003,October,Rainy,Mansonia,africana,625,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,233,vec_233,2003,November,Dry,Mansonia,africana,443,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,234,vec_234,2003,October,Rainy,Mansonia,uniformis,903,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+91,235,vec_235,2003,November,Dry,Mansonia,uniformis,118,Senegal,barkedji,"Barkedji, Senegal",,Sahelian_acacia_savanna,15.27760441,-14.86718932
+101,236,vec_236,1989,July,Rainy,Aedes,dalzieli,99,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,237,vec_237,1990,December,Dry,Aedes,dalzieli,12,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,238,vec_238,1989,July,Rainy,Aedes,fowleri,26,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,239,vec_239,1990,December,Dry,Aedes,fowleri,0,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,240,vec_240,1989,July,Rainy,Aedes,metallicus,1,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,241,vec_241,1990,December,Dry,Aedes,metallicus,0,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,242,vec_242,1989,July,Rainy,Aedes,sudanensis,19,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,243,vec_243,1990,December,Dry,Aedes,sudanensis,4,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,244,vec_244,1989,July,Rainy,Aedes,vexans,1391,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,245,vec_245,1990,December,Dry,Aedes,vexans,550,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,246,vec_246,1989,July,Rainy,Culex,antennatus,33,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,247,vec_247,1990,December,Dry,Culex,antennatus,3,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,248,vec_248,1989,July,Rainy,Culex,neavei,15,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,249,vec_249,1990,December,Dry,Culex,neavei,13,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,250,vec_250,1989,July,Rainy,Culex,poicilipes,56,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,251,vec_251,1990,December,Dry,Culex,poicilipes,75,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,252,vec_252,1989,July,Rainy,Culex,tritaeniorhynchus,33,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,253,vec_253,1990,December,Dry,Culex,tritaeniorhynchus,19,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,254,vec_254,1989,July,Rainy,Mansonia,africana,4,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,255,vec_255,1990,December,Dry,Mansonia,africana,0,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,256,vec_256,1989,July,Rainy,Mansonia,uniformis,6,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+101,257,vec_257,1990,December,Dry,Mansonia,uniformis,8,Senegal,yonofere,"Yonofere, Senegal",,Sahelian_acacia_savanna,15.26905381,-14.4634345
+116,258,vec_258,1993,July,Rainy,Aedes,furcifer,1908,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,259,vec_259,1993,October_to_november,Both,Aedes,furcifer,6912,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,260,vec_260,1993,July,Rainy,Aedes,taylori,267,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,261,vec_261,1993,October_to_november,Both,Aedes,taylori,1726,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,262,vec_262,1993,July,Rainy,Aedes,furcifer_taylori,13,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,263,vec_263,1993,July,Rainy,Aedes,luteocephalus,563,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,264,vec_264,1993,October_to_november,Both,Aedes,luteocephalus,1149,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,265,vec_265,1993,July,Rainy,Aedes,aegypti,25,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,266,vec_266,1993,October_to_november,Both,Aedes,aegypti,31,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,267,vec_267,1993,July,Rainy,Aedes,metallicus,1,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,268,vec_268,1993,October_to_november,Both,Aedes,metallicus,32,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,269,vec_269,1993,July,Rainy,Aedes,unilineatus,5,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,270,vec_270,1993,October_to_november,Both,Aedes,unilineatus,2,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,271,vec_271,1993,July,Rainy,Aedes,africana,1,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,272,vec_272,1993,July,Rainy,Aedes,vittatus,940,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,273,vec_273,1993,October_to_november,Both,Aedes,vittatus,106,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,274,vec_274,1993,July,Rainy,Aedes,dalzieli,10,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,275,vec_275,1993,October_to_november,Both,Aedes,dalzieli,890,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,276,vec_276,1993,July,Rainy,Aedes,fowleri,55,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+116,277,vec_277,1993,October_to_november,Both,Aedes,fowleri,3,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56058881,-12.17042784
+123,278,vec_278,2020,August,Rainy,Aedes,aegypti,661,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,279,vec_279,2020,August,Rainy,Aedes,africana,92,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,280,vec_280,2020,August,Rainy,Aedes,furcifer,1025,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,281,vec_281,2020,August,Rainy,Aedes,luteocephalus,419,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,282,vec_282,2020,August,Rainy,Aedes,taylori,112,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,283,vec_283,2020,August,Rainy,Aedes,vittatus,495,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,284,vec_284,2020,September,Rainy,Aedes,aegypti,478,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,285,vec_285,2020,September,Rainy,Aedes,africana,69,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,286,vec_286,2020,September,Rainy,Aedes,furcifer,515,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,287,vec_287,2020,September,Rainy,Aedes,luteocephalus,141,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,288,vec_288,2020,September,Rainy,Aedes,taylori,25,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,289,vec_289,2020,September,Rainy,Aedes,vittatus,339,Senegal,kedougou,"Kedougou, Senegal",,West_sudanian_savanna,12.56117526,-12.17360425
+123,290,vec_290,2020,November,Dry,Aedes,aegypti,19,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,291,vec_291,2020,November,Dry,Aedes,africana,0,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,292,vec_292,2020,November,Dry,Aedes,furcifer,0,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,293,vec_293,2020,November,Dry,Aedes,luteocephalus,0,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,294,vec_294,2020,November,Dry,Aedes,taylori,0,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+123,295,vec_295,2020,November,Dry,Aedes,vittatus,0,Senegal,kidira,"Kidira, Senegal",,West_sudanian_savanna,14.45823297,-12.2113512
+124,296,vec_296,1996,November,Dry,Aedes,aegypti,229,Senegal,dougounbene,"Dougounbene, Senegal",,West_sudanian_savanna,14.13147133,-15.58473371
+124,297,vec_297,1996,November,Dry,Aedes,luteocephalus,1,Senegal,dougounbene,"Dougounbene, Senegal",,West_sudanian_savanna,14.13147133,-15.58473371
+124,298,vec_298,1996,November,Dry,Aedes,metallicus,1,Senegal,dougounbene,"Dougounbene, Senegal",,West_sudanian_savanna,14.13147133,-15.58473371
+141,299,vec_299,1972,August_to_september,Rainy,Aedes,uniformis,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,300,vec_300,1972,August_to_september,Rainy,Aedes,dalzieli,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,301,vec_301,1972,August_to_september,Rainy,Aedes,fowleri,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,302,vec_302,1972,August_to_september,Rainy,Aedes,metallicus,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,303,vec_303,1972,August_to_september,Rainy,Culex,neavei,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,304,vec_304,1972,August_to_september,Rainy,Culex,poicilipes,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,305,vec_305,1972,August_to_september,Rainy,Culex,tritaeniorhynchus,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,306,vec_306,1976,October,Rainy,Mansonia,africana,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,307,vec_307,1976,October,Rainy,Mansonia,uniformis,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,308,vec_308,1976,October,Rainy,Aedes,dalzieli,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,309,vec_309,1976,October,Rainy,Aedes,fowleri,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,310,vec_310,1976,October,Rainy,Aedes,metallicus,1,Gambia,keneba,"Keneba, Gambia",,,,
+141,311,vec_311,1976,October,Rainy,Culex,tritaeniorhynchus,1,Gambia,keneba,"Keneba, Gambia",,,,
+146,312,vec_312,2012,January,Dry,Argas,parsicus,1,Senegal,ndiop,"Ndiop, Senegal",,,,
+146,313,vec_313,2004,May,Dry,Rhipicephalus,sp.,1,Senegal,kossanto,"Kossanto, Senegal",,,,
+146,314,vec_314,2008,January,Dry,Rhipicephalus,sp.,1,Senegal,raouna_djidere,"Raouna Djidere, Senegal",,,,
+146,315,vec_315,2008,March,Dry,Rhipicephalus,sp.,1,Senegal,mballo_counda_woudou,"Mballo Counda Woudou, Senegal",,,,
+146,316,vec_316,2008,March,Dry,Rhipicephalus,sp.,1,Senegal,djiro_mantoro,"Djiro Mantoro, Senegal",,,,
+146,317,vec_317,2008,March,Dry,Rhipicephalus,sp.,1,Senegal,abene,"Abene, Senegal",,,,
+167,318,vec_318,1991,August_to_november,Both,Ambylomma,variegatum,356,Gambia,kerr_serign,"Kerr Serign, Gambia",,,,
+167,319,vec_319,1991,August_to_november,Both,Hyalomma,sp.,64,Gambia,kerr_serign,"Kerr Serign, Gambia",,,,
+175,320,vec_320,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,dakar,"Dakar, Senegal",,,,
+175,321,vec_321,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,bandia,"Bandia, Senegal",,,,
+175,322,vec_322,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,saboya,"Saboya, Senegal",,,,
+175,323,vec_323,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,salemata,"Salemata, Senegal",,,,
+175,324,vec_324,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,etiolo,"Etiolo, Senegal",,,,
+175,325,vec_325,1993,All_months,Both,Reticulinasus,camicasi,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+193,326,vec_326,1995_1996,All_months,Both,Ambylomma,variegatum,5713,Gambia,keneba,"Keneba, Gambia",,,,
+193,327,vec_327,1995_1996,All_months,Both,Rhipicephalus,senegalensis,2475,Gambia,keneba,"Keneba, Gambia",,,,
+193,328,vec_328,1995_1996,All_months,Both,Hyalomma,truncatum,651,Gambia,keneba,"Keneba, Gambia",,,,
+193,329,vec_329,1995_1996,All_months,Both,Hyalomma,marginatum_rufipes,210,Gambia,keneba,"Keneba, Gambia",,,,
+193,330,vec_330,1995_1996,All_months,Both,Boophilus,decoloratus,50,Gambia,keneba,"Keneba, Gambia",,,,
+193,331,vec_331,1995_1996,All_months,Both,Boophilus,geigyi,20,Gambia,keneba,"Keneba, Gambia",,,,
+210,332,vec_332,2002,November,Dry,Aedes,vexans,7138,Senegal,barkedji,"Barkedji, Senegal",,,,
+210,333,vec_333,2002,November,Dry,Aedes,sudanensis,156,Senegal,barkedji,"Barkedji, Senegal",,,,
+210,334,vec_334,2002,November,Dry,Aedes,fowleri,60,Senegal,barkedji,"Barkedji, Senegal",,,,
+210,335,vec_335,2002,November,Dry,Culex,poicilipes,242,Senegal,barkedji,"Barkedji, Senegal",,,,
+210,336,vec_336,2002,November,Dry,Culex,sp.,56,Senegal,barkedji,"Barkedji, Senegal",,,,
+210,337,vec_337,2002,November,Dry,Aedes,sp.,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+219,338,vec_338,2007,All_months,Both,Ambylomma,variegatum,40,Gambia,kerr_serign,"Kerr Serign, Gambia",,,,
+219,339,vec_339,2007,All_months,Both,Ambylomma,variegatum,42,Gambia,giboro_kuta,"Giboro Kuta, Gambia",,,,
+219,340,vec_340,2007,All_months,Both,Ambylomma,variegatum,50,Gambia,tumani_tenda,"Tumani Tenda, Gambia",,,,
+219,341,vec_341,2007,All_months,Both,Ambylomma,variegatum,38,Gambia,mandinaba,"Mandinaba, Gambia",,,,
+219,342,vec_342,2007,All_months,Both,Ambylomma,variegatum,55,Gambia,brefet,"Brefet, Gambia",,,,
+219,343,vec_343,2007,All_months,Both,Ambylomma,variegatum,46,Gambia,keneba,"Keneba, Gambia",,,,
+219,344,vec_344,2007,All_months,Both,Ambylomma,variegatum,50,Gambia,burong,"Burong, Gambia",,,,
+219,345,vec_345,2007,All_months,Both,Ambylomma,variegatum,40,Gambia,kollikunda,"Kollikunda, Gambia",,,,
+219,346,vec_346,2007,All_months,Both,Ambylomma,variegatum,35,Gambia,mbappa_ba,"Mbappa Ba, Gambia",,,,
+219,347,vec_347,2007,All_months,Both,Ambylomma,variegatum,30,Gambia,mbappa_mariga,"Mbappa Mariga, Gambia",,,,
+219,348,vec_348,2007,All_months,Both,Ambylomma,variegatum,40,Gambia,yorro_beri_kunda,"Yorro Beri Kunda, Gambia",,,,
+219,349,vec_349,2007,All_months,Both,Ambylomma,variegatum,25,Gambia,sare_sofi,"Sare Sofi, Gambia",,,,
+219,350,vec_350,2007,All_months,Both,Ambylomma,variegatum,25,Gambia,mamud_fana,"Mamud Fana, Gambia",,,,
+219,351,vec_351,2007,All_months,Both,Ambylomma,variegatum,42,Gambia,jimballa_kerr_malick,"Jimballa Kerr Malick, Gambia",,,,
+219,352,vec_352,2007,All_months,Both,Ambylomma,variegatum,50,Gambia,kulkullay,"Kulkullay, Gambia",,,,
+219,353,vec_353,2007,All_months,Both,Ambylomma,variegatum,50,Gambia,sare_demba_torro,"Sare Demba Torro, Gambia",,,,
+446,354,vec_354,2014,July_to_november,Rainy,Aedes,aegypti,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,355,vec_355,2014,July_to_november,Rainy,Aedes,fowleri,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,356,vec_356,2014,July_to_november,Rainy,Aedes,sudanensis,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,357,vec_357,2014,July_to_november,Rainy,Aedes,sp.,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,358,vec_358,2014,July_to_november,Rainy,Aedes,vexans_arabiensis,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,359,vec_359,2014,July_to_november,Rainy,Culex,antennatus,68,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,360,vec_360,2014,July_to_november,Rainy,Culex,neavei,70,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,361,vec_361,2014,July_to_november,Rainy,Culex,perfuscus,362,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,362,vec_362,2014,July_to_november,Rainy,Culex,poicilipes,120,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,363,vec_363,2014,July_to_november,Rainy,Culex,quinquefasciatus,43,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,364,vec_364,2014,July_to_november,Rainy,Culex,tritaeniorhynchus,29400,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,365,vec_365,2014,July_to_november,Rainy,Mansonia,uniformis,16495,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,366,vec_366,2014,July_to_november,Rainy,Aedes,aegypti,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,367,vec_367,2014,July_to_november,Rainy,Aedes,fowleri,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,368,vec_368,2014,July_to_november,Rainy,Aedes,sudanensis,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,369,vec_369,2014,July_to_november,Rainy,Aedes,sp.,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,370,vec_370,2014,July_to_november,Rainy,Aedes,vexans_arabiensis,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,371,vec_371,2014,July_to_november,Rainy,Culex,antennatus,748,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,372,vec_372,2014,July_to_november,Rainy,Culex,neavei,2152,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,373,vec_373,2014,July_to_november,Rainy,Culex,perfuscus,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,374,vec_374,2014,July_to_november,Rainy,Culex,poicilipes,791,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,375,vec_375,2014,July_to_november,Rainy,Culex,quinquefasciatus,254,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,376,vec_376,2014,July_to_november,Rainy,Culex,tritaeniorhynchus,37580,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,377,vec_377,2014,July_to_november,Rainy,Mansonia,uniformis,28299,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,378,vec_378,2014,July_to_november,Rainy,Aedes,aegypti,9,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,379,vec_379,2014,July_to_november,Rainy,Aedes,fowleri,1,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,380,vec_380,2014,July_to_november,Rainy,Aedes,sudanensis,140,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,381,vec_381,2014,July_to_november,Rainy,Aedes,sp.,1,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,382,vec_382,2014,July_to_november,Rainy,Aedes,vexans_arabiensis,86653,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,383,vec_383,2014,July_to_november,Rainy,Culex,antennatus,15,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,384,vec_384,2014,July_to_november,Rainy,Culex,neavei,2,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,385,vec_385,2014,July_to_november,Rainy,Culex,perfuscus,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,386,vec_386,2014,July_to_november,Rainy,Culex,poicilipes,18,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,387,vec_387,2014,July_to_november,Rainy,Culex,quinquefasciatus,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,388,vec_388,2014,July_to_november,Rainy,Culex,tritaeniorhynchus,165,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,389,vec_389,2014,July_to_november,Rainy,Mansonia,uniformis,2,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,390,vec_390,2014,July_to_november,Rainy,Aedes,aegypti,10,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,391,vec_391,2014,July_to_november,Rainy,Aedes,fowleri,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,392,vec_392,2014,July_to_november,Rainy,Aedes,sudanensis,52,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,393,vec_393,2014,July_to_november,Rainy,Aedes,sp.,16,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,394,vec_394,2014,July_to_november,Rainy,Aedes,vexans_arabiensis,15164,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,395,vec_395,2014,July_to_november,Rainy,Culex,antennatus,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,396,vec_396,2014,July_to_november,Rainy,Culex,neavei,,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,397,vec_397,2014,July_to_november,Rainy,Culex,perfuscus,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,398,vec_398,2014,July_to_november,Rainy,Culex,poicilipes,46,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,399,vec_399,2014,July_to_november,Rainy,Culex,quinquefasciatus,3,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,400,vec_400,2014,July_to_november,Rainy,Culex,tritaeniorhynchus,22,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,401,vec_401,2014,July_to_november,Rainy,Mansonia,uniformis,2,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,402,vec_402,2014,July_to_november,Rainy,Aedes,aegypti,1,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,403,vec_403,2014,July_to_november,Rainy,Aedes,fowleri,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,404,vec_404,2014,July_to_november,Rainy,Aedes,sudanensis,11,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,405,vec_405,2014,July_to_november,Rainy,Aedes,sp.,9,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,406,vec_406,2014,July_to_november,Rainy,Aedes,vexans_arabiensis,3535,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,407,vec_407,2014,July_to_november,Rainy,Culex,antennatus,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,408,vec_408,2014,July_to_november,Rainy,Culex,neavei,9,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,409,vec_409,2014,July_to_november,Rainy,Culex,perfuscus,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,410,vec_410,2014,July_to_november,Rainy,Culex,poicilipes,115,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,411,vec_411,2014,July_to_november,Rainy,Culex,quinquefasciatus,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,412,vec_412,2014,July_to_november,Rainy,Culex,tritaeniorhynchus,31,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,413,vec_413,2014,July_to_november,Rainy,Mansonia,uniformis,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,414,vec_414,2015,July_to_november,Rainy,Aedes,aegypti,1,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,415,vec_415,2015,July_to_november,Rainy,Aedes,fowleri,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,416,vec_416,2015,July_to_november,Rainy,Aedes,sudanensis,2,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,417,vec_417,2015,July_to_november,Rainy,Aedes,sp.,0,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,418,vec_418,2015,July_to_november,Rainy,Aedes,vexans_arabiensis,9,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,419,vec_419,2015,July_to_november,Rainy,Culex,antennatus,2334,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,420,vec_420,2015,July_to_november,Rainy,Culex,neavei,6,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,421,vec_421,2015,July_to_november,Rainy,Culex,perfuscus,439,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,422,vec_422,2015,July_to_november,Rainy,Culex,poicilipes,581,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,423,vec_423,2015,July_to_november,Rainy,Culex,quinquefasciatus,31,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,424,vec_424,2015,July_to_november,Rainy,Culex,tritaeniorhynchus,40080,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,425,vec_425,2015,July_to_november,Rainy,Mansonia,uniformis,27754,Senegal,diama,"Diama, Senegal",,,16.2115,-16.392113
+446,426,vec_426,2015,July_to_november,Rainy,Aedes,aegypti,1,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,427,vec_427,2015,July_to_november,Rainy,Aedes,fowleri,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,428,vec_428,2015,July_to_november,Rainy,Aedes,sudanensis,2,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,429,vec_429,2015,July_to_november,Rainy,Aedes,sp.,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,430,vec_430,2015,July_to_november,Rainy,Aedes,vexans_arabiensis,30,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,431,vec_431,2015,July_to_november,Rainy,Culex,antennatus,915,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,432,vec_432,2015,July_to_november,Rainy,Culex,neavei,25,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,433,vec_433,2015,July_to_november,Rainy,Culex,perfuscus,0,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,434,vec_434,2015,July_to_november,Rainy,Culex,poicilipes,386,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,435,vec_435,2015,July_to_november,Rainy,Culex,quinquefasciatus,27,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,436,vec_436,2015,July_to_november,Rainy,Culex,tritaeniorhynchus,10341,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,437,vec_437,2015,July_to_november,Rainy,Mansonia,uniformis,14302,Senegal,dande_mayo_loboudou,"Dande Mayo Loboudou, Senegal",,,15.947701,-15.939505
+446,438,vec_438,2015,July_to_november,Rainy,Aedes,aegypti,7,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,439,vec_439,2015,July_to_november,Rainy,Aedes,fowleri,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,440,vec_440,2015,July_to_november,Rainy,Aedes,sudanensis,63,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,441,vec_441,2015,July_to_november,Rainy,Aedes,sp.,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,442,vec_442,2015,July_to_november,Rainy,Aedes,vexans_arabiensis,3720,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,443,vec_443,2015,July_to_november,Rainy,Culex,antennatus,8,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,444,vec_444,2015,July_to_november,Rainy,Culex,neavei,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,445,vec_445,2015,July_to_november,Rainy,Culex,perfuscus,0,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,446,vec_446,2015,July_to_november,Rainy,Culex,poicilipes,50,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,447,vec_447,2015,July_to_november,Rainy,Culex,quinquefasciatus,4,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,448,vec_448,2015,July_to_november,Rainy,Culex,tritaeniorhynchus,13,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,449,vec_449,2015,July_to_november,Rainy,Mansonia,uniformis,2,Senegal,diaby,"Diaby, Senegal",,,15.288365,-14.485538
+446,450,vec_450,2015,July_to_november,Rainy,Aedes,aegypti,6,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,451,vec_451,2015,July_to_november,Rainy,Aedes,fowleri,15,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,452,vec_452,2015,July_to_november,Rainy,Aedes,sudanensis,50,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,453,vec_453,2015,July_to_november,Rainy,Aedes,sp.,51,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,454,vec_454,2015,July_to_november,Rainy,Aedes,vexans_arabiensis,2512,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,455,vec_455,2015,July_to_november,Rainy,Culex,antennatus,1,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,456,vec_456,2015,July_to_november,Rainy,Culex,neavei,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,457,vec_457,2015,July_to_november,Rainy,Culex,perfuscus,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,458,vec_458,2015,July_to_november,Rainy,Culex,poicilipes,1,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,459,vec_459,2015,July_to_november,Rainy,Culex,quinquefasciatus,2,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,460,vec_460,2015,July_to_november,Rainy,Culex,tritaeniorhynchus,54,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,461,vec_461,2015,July_to_november,Rainy,Mansonia,uniformis,0,Senegal,demba_djidou,"Demba Djidou, Senegal",,,15.281546,-14.451333
+446,462,vec_462,2015,July_to_november,Rainy,Aedes,aegypti,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,463,vec_463,2015,July_to_november,Rainy,Aedes,fowleri,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,464,vec_464,2015,July_to_november,Rainy,Aedes,sudanensis,10,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,465,vec_465,2015,July_to_november,Rainy,Aedes,sp.,1,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,466,vec_466,2015,July_to_november,Rainy,Aedes,vexans_arabiensis,582,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,467,vec_467,2015,July_to_november,Rainy,Culex,antennatus,1,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,468,vec_468,2015,July_to_november,Rainy,Culex,neavei,3,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,469,vec_469,2015,July_to_november,Rainy,Culex,perfuscus,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,470,vec_470,2015,July_to_november,Rainy,Culex,poicilipes,56,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,471,vec_471,2015,July_to_november,Rainy,Culex,quinquefasciatus,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,472,vec_472,2015,July_to_november,Rainy,Culex,tritaeniorhynchus,24,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+446,473,vec_473,2015,July_to_november,Rainy,Mansonia,uniformis,0,Senegal,nacara,"Nacara, Senegal",,,15.223089,-14.438562
+536,474,vec_474,2013,June,Rainy,Rhipicephalus,evertesi_evertesi,48,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+536,475,vec_475,2014,June,Rainy,Rhipicephalus,evertesi_evertesi,124,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+536,476,vec_476,2014,June,Rainy,Hyalomma,rufipes,17,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+536,477,vec_477,2014,June,Rainy,Hyalomma,impeltatum,10,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+536,478,vec_478,2014,June,Rainy,Rhipicephalus,bursa,3,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+536,479,vec_479,2014,June,Rainy,Rhipicephalus,muhsamae,2,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.91668,-15.966675
+568,480,vec_480,2012,All_months,Rainy,Aedes,aegypti,1,Senegal,dakar,"Dakar, Senegal",,,,
+568,481,vec_481,2012,All_months,Rainy,Aedes,aegypti,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+568,482,vec_482,2012,All_months,Rainy,Aedes,vittatus,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+568,483,vec_483,2012,All_months,Rainy,Aedes,luteocephalus,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,484,vec_484,2018,August_to_november,Both,Aedes,aegypti,682,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,485,vec_485,2018,August_to_november,Both,Aedes,furcifer,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,486,vec_486,2018,August_to_november,Both,Aedes,luteocephalus,2,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,487,vec_487,2018,August_to_november,Both,Aedes,vittatus,15,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,488,vec_488,2018,August_to_november,Both,Culex,neavei,2,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,489,vec_489,2018,August_to_november,Both,Culex,perfuscus,40,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,490,vec_490,2018,August_to_november,Both,Culex,quinquefasciatus,446,Senegal,kedougou,"Kedougou, Senegal",,,,
+576,491,vec_491,2018,August_to_november,Both,Mansonia,uniformis,1,Senegal,kedougou,"Kedougou, Senegal",,,,
+625,492,vec_492,2002_2003,August_to_january,Both,Aedes,aegypti,166,Senegal,barkedji,"Barkedji, Senegal",,,,
+625,493,vec_493,2002_2003,August_to_january,Both,Aedes,aegypti,97,Senegal,dakar,"Dakar, Senegal",,,,
+625,494,vec_494,2002_2003,August_to_january,Both,Aedes,aegypti,63,Senegal,ngoye,"Ngoye, Senegal",,,,
+625,495,vec_495,2002_2003,August_to_january,Both,Aedes,aegypti,67,Senegal,ndougoubene,"Ndougoubene, Senegal",,,,
+625,496,vec_496,2002_2003,August_to_january,Both,Aedes,aegypti,56,Senegal,kedougou,"Kedougou, Senegal",,,,
+625,497,vec_497,2002_2003,August_to_january,Both,Aedes,aegypti,148,Senegal,darou_koung_koung,"Darou Koung Koung, Senegal",,,,
+512,498,vec_498,2009,September,Rainy,Aedes,luteocephalus,72,Senegal,ndebou_forest,"Ndebou Forest, Senegal",,,12.4980072,-12.3153303
+512,499,vec_499,2009,September,Rainy,Aedes,luteocephalus,51,Senegal,tenkoto_forest,"Tenkoto Forest, Senegal",,,12.66002685,-12.2725947
+512,500,vec_500,2009,September,Rainy,Aedes,luteocephalus,2,Senegal,ngari_savanna,"Ngari Savanna, Senegal",,,12.63167961,-12.25041582
+512,501,vec_501,2009,October,Rainy,Aedes,furcifer,56,Senegal,baraboye_barren,"Baraboye Barren, Senegal",,,12.60732399,-12.35665163
+512,502,vec_502,2009,October,Rainy,Aedes,furcifer,38,Senegal,ndebou,"Ndebou, Senegal",,,12.4980072,-12.3153303
+512,503,vec_503,2009,October,Rainy,Aedes,taylori,27,Senegal,tenkoto_forest,"Tenkoto Forest, Senegal",,,12.66002685,-12.2725947
+512,504,vec_504,2009,October,Rainy,Aedes,africana,10,Senegal,bandafassi_forest,"Bandafassi Forest, Senegal",,,12.52689121,-12.29415361
+512,505,vec_505,2009,October,Rainy,Aedes,furcifer,138,Senegal,ngari,"Ngari, Senegal",,,12.62344339,-12.24367811
+512,506,vec_506,2009,October,Rainy,Aedes,luteocephalus,89,Senegal,ngari,"Ngari, Senegal",,,12.62344339,-12.24367811
+512,507,vec_507,2009,October,Rainy,Aedes,aegypti,2,Senegal,velinngara_forest,"Velinngara Forest, Senegal",,,12.47868658,-12.10118272
+512,508,vec_508,2009,October,Rainy,Aedes,africana,8,Senegal,velinngara_forest,"Velinngara Forest, Senegal",,,12.47868658,-12.10118272
+512,509,vec_509,2009,October,Rainy,Aedes,furcifer,2013,Senegal,ngari,"Ngari, Senegal",,,12.63369101,-12.24972725
+512,510,vec_510,2009,October,Rainy,Aedes,furcifer,29,Senegal,velinngara,"Velinngara, Senegal",,,12.46090135,-12.062042
+512,511,vec_511,2009,November,Dry,Aedes,dalzieli,57,Senegal,tenkoto_agriculture,"Tenkoto Agriculture, Senegal",,,12.69074739,-12.28392012
+512,512,vec_512,2009,November,Dry,Aedes,furcifer,26,Senegal,tenkoto_agriculture,"Tenkoto Agriculture, Senegal",,,12.69074739,-12.28392012
+512,513,vec_513,2009,November,Dry,Aedes,furcifer,14,Senegal,tenkoto_forest,"Tenkoto Forest, Senegal",,,12.66002685,-12.2725947
+512,514,vec_514,2009,November,Dry,Aedes,taylori,27,Senegal,tenkoto_forest,"Tenkoto Forest, Senegal",,,12.66002685,-12.2725947
+512,515,vec_515,2009,November,Dry,Aedes,dalzieli,66,Senegal,tenkoto_savanna,"Tenkoto Savanna, Senegal",,,12.65331125,-12.26894117
+512,516,vec_516,2009,November,Dry,Aedes,metallicus,2,Senegal,tenkoto_savanna,"Tenkoto Savanna, Senegal",,,12.65331125,-12.26894117
+512,517,vec_517,2009,November,Dry,Aedes,furcifer,2,Senegal,ngari_agriculture,"Ngari Agriculture, Senegal",,,12.61142529,-12.24026891
+512,518,vec_518,2009,November,Dry,Aedes,furcifer,16,Senegal,ngari_barren,"Ngari Barren, Senegal",,,12.62212806,-12.23951785
+512,519,vec_519,2009,November,Dry,Aedes,furcifer,69,Senegal,ngari,"Ngari, Senegal",,,12.62344339,-12.24367811
+512,520,vec_520,2009,November,Dry,Aedes,taylori,41,Senegal,ngari,"Ngari, Senegal",,,12.62344339,-12.24367811
+512,521,vec_521,2009,December,Dry,Aedes,dalzieli,6,Senegal,ndebou_forest,"Ndebou Forest, Senegal",,,12.50419827,-12.37652391
+512,522,vec_522,2009,December,Dry,Aedes,furcifer,12,Senegal,ndebou_forest,"Ndebou Forest, Senegal",,,12.50419827,-12.37652391
+512,523,vec_523,2009,December,Dry,Aedes,luteocephalus,3,Senegal,ndebou_forest,"Ndebou Forest, Senegal",,,12.50419827,-12.37652391
+512,524,vec_524,2009,December,Dry,Aedes,taylori,6,Senegal,ndebou_forest,"Ndebou Forest, Senegal",,,12.50419827,-12.37652391
+512,525,vec_525,2009,December,Dry,Aedes,dalzieli,3,Senegal,baraboye_forest,"Baraboye Forest, Senegal",,,12.67649679,-12.42371109
+512,526,vec_526,2009,December,Dry,Aedes,furcifer,1,Senegal,baraboye,"Baraboye, Senegal",,,12.68599933,-12.41116303
+512,527,vec_527,2009,December,Dry,Aedes,taylori,1,Senegal,tenkoto_agriculture,"Tenkoto Agriculture, Senegal",,,12.69074739,-12.28392012
+512,528,vec_528,2009,December,Dry,Mansonia,uniformis,3,Senegal,ngari_barren,"Ngari Barren, Senegal",,,12.62212806,-12.23951785
+512,529,vec_529,2009,December,Dry,Culex,poicilipes,3,Senegal,ngari_savanna,"Ngari Savanna, Senegal",,,12.62344339,-12.24367811
+512,530,vec_530,2009,December,Dry,Aedes,furcifer,3,Senegal,ngari,"Ngari, Senegal",,,12.63369101,-12.24972725
+457,531,vec_531,2013,September_to_december,Both,Culex,antennatus,48,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,532,vec_532,2013,September_to_december,Both,Culex,neavei,814,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,533,vec_533,2013,September_to_december,Both,Culex,perfuscus,125,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,534,vec_534,2013,September_to_december,Both,Culex,poicilipes,1681,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,535,vec_535,2013,September_to_december,Both,Culex,tritaeniorhynchus,39,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,536,vec_536,2013,September_to_december,Both,Mansonia,africana,15,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,537,vec_537,2013,September_to_december,Both,Mansonia,uniformis,331,Senegal,barkedji,"Barkedji, Senegal",,,,
+457,538,vec_538,2013,September_to_december,Both,Culex,antennatus,610,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,539,vec_539,2013,September_to_december,Both,Culex,neavei,40,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,540,vec_540,2013,September_to_december,Both,Culex,perfuscus,260,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,541,vec_541,2013,September_to_december,Both,Culex,poicilipes,989,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,542,vec_542,2013,September_to_december,Both,Culex,tritaeniorhynchus,1128,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,543,vec_543,2013,September_to_december,Both,Mansonia,africana,223,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,544,vec_544,2013,September_to_december,Both,Mansonia,uniformis,4911,Senegal,djoudj_national_bird_sanctuary,"Djoudj National Bird Sanctuary, Senegal",,,,
+457,545,vec_545,2013,September_to_december,Both,Culex,antennatus,69,Senegal,kedougou,"Kedougou, Senegal",,,,
+457,546,vec_546,2013,September_to_december,Both,Culex,neavei,46,Senegal,kedougou,"Kedougou, Senegal",,,,
+457,547,vec_547,2013,September_to_december,Both,Culex,perfuscus,452,Senegal,kedougou,"Kedougou, Senegal",,,,
+457,548,vec_548,2013,September_to_december,Both,Culex,poicilipes,189,Senegal,kedougou,"Kedougou, Senegal",,,,
+457,549,vec_549,2013,September_to_december,Both,Mansonia,africana,46,Senegal,kedougou,"Kedougou, Senegal",,,,
+457,550,vec_550,2013,September_to_december,Both,Mansonia,uniformis,1574,Senegal,kedougou,"Kedougou, Senegal",,,,
+623,551,vec_551,2010,August,Rainy,Aedes,aegypti,58,Senegal,fatick,"Fatick, Senegal",,,14.339303,-16.41078
+623,552,vec_552,2011,September,Rainy,Aedes,aegypti,74,Senegal,bignona,"Bignona, Senegal",,,12.801706,-16.227176
+623,553,vec_553,2010,October,Rainy,Aedes,aegypti,90,Senegal,richard_toll,"Richard Toll, Senegal",,,16.465031,-15.683831
+623,554,vec_554,2010,October,Rainy,Aedes,aegypti,78,Senegal,goudiri,"Goudiri, Senegal",,,14.183956,-12.715913
+623,555,vec_555,2011,September,Rainy,Aedes,aegypti,82,Senegal,kedougou,"Kedougou, Senegal",,,12.558174,-12.188619
+623,556,vec_556,2011,September,Rainy,Aedes,aegypti,87,Senegal,pk10,"Pk10, Senegal",,,12.612535,-12.247555
+623,557,vec_557,2010,August,Rainy,Aedes,aegypti,90,Senegal,mont_rolland,"Mont Rolland, Senegal",,,14.921693,-16.993707
+623,558,vec_558,2010,October,Rainy,Aedes,aegypti,88,Senegal,rufisque,"Rufisque, Senegal",,,14.715785,-17.270833
+539,559,vec_559,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,kedougou,"Kedougou, Senegal",,,12.562594,-12.175522
+539,560,vec_560,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,pk10,"Pk10, Senegal",,,12.611942,-12.246339
+539,561,vec_561,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,tambacounda,"Tambacounda, Senegal",,,14.164659,-14.085821
+539,562,vec_562,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,louga,"Louga, Senegal",,,15.62124,-16.235435
+539,563,vec_563,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,barkedji,"Barkedji, Senegal",,,15.277046,-15.862997
+539,564,vec_564,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,mbour,"Mbour, Senegal",,,14.418782,-16.956427
+539,565,vec_565,2018,July_to_september,Rainy,Aedes,aegypti,300,Senegal,dakar,"Dakar, Senegal",,,14.672906,-17.443576
+614,566,vec_566,,,,Ornithodoros,sonrai,7,Senegal,dielmon,"Dielmon, Senegal",,,13.716675,-16.399997
+614,567,vec_567,,,,Ornithodoros,sonrai,3,Senegal,thianene,"Thianene, Senegal",,,15.066664,-15.999986
+614,568,vec_568,,,,Ornithodoros,sonrai,1,Senegal,nema_nding,"Nema Nding, Senegal",,,13.699992,-16.416681
+614,569,vec_569,,,,Ornithodoros,sonrai,1,Senegal,keur_aliou_gueye,"Keur Aliou Gueye, Senegal",,,13.783325,-16.399997
+614,570,vec_570,,,,Ornithodoros,sonrai,1,Senegal,kanene_khar,"Kanene Khar, Senegal",,,15.500013,-16.016664
+614,571,vec_571,,,,Ornithodoros,sonrai,1,Senegal,kaur_lamine_soce,"Kaur Lamine Soce, Senegal",,,13.733331,-16.416681
+614,572,vec_572,,,,Ornithodoros,sonrai,1,Senegal,kenieba,"Kenieba, Senegal",,,14.08332,-12.049992
+614,573,vec_573,,,,Ornithodoros,sonrai,1,Senegal,taouey,"Taouey, Senegal",,,16.449992,-12.050003
+463,574,vec_574,2008_2009,September_to_january,Both,Culex,neavei,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,575,vec_575,2008_2009,September_to_january,Both,Culex,tritaeniorhynchus,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,576,vec_576,2008_2009,September_to_january,Both,Aedes,sudanensis,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,577,vec_577,2008_2009,September_to_january,Both,Mansonia,uniformis,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,578,vec_578,2008_2009,September_to_january,Both,Culex,poicilipes,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,579,vec_579,2008_2009,September_to_january,Both,Culex,perfuscus,1,Senegal,grand_lampsar,"Grand Lampsar, Senegal",,,16.4525,-16.21722222
+463,580,vec_580,2008_2009,September_to_january,Both,Culex,neavei,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,581,vec_581,2008_2009,September_to_january,Both,Culex,tritaeniorhynchus,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,582,vec_582,2008_2009,September_to_january,Both,Aedes,sudanensis,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,583,vec_583,2008_2009,September_to_january,Both,Mansonia,uniformis,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,584,vec_584,2008_2009,September_to_january,Both,Culex,poicilipes,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,585,vec_585,2008_2009,September_to_january,Both,Culex,perfuscus,1,Senegal,rainabe,"Rainabe, Senegal",,,16.40055556,-16.18583333
+463,586,vec_586,2008_2009,September_to_january,Both,Culex,neavei,1,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+463,587,vec_587,2008_2009,September_to_january,Both,Culex,tritaeniorhynchus,1,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+463,588,vec_588,2008_2009,September_to_january,Both,Aedes,sudanensis,0,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+463,589,vec_589,2008_2009,September_to_january,Both,Mansonia,uniformis,1,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+463,590,vec_590,2008_2009,September_to_january,Both,Culex,poicilipes,1,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+463,591,vec_591,2008_2009,September_to_january,Both,Culex,perfuscus,0,Senegal,ross_bethio,"Ross Bethio, Senegal",,,16.43555556,-16.2175
+627,592,vec_592,,,,Culex,quinquefasciatus,41,Senegal,barkedji,"Barkedji, Senegal",,,,
+567,593,vec_593,2014,,,Aedes,aegypti,240,Senegal,dakar,"Dakar, Senegal",,,,
+567,594,vec_594,2014,,,Aedes,aegypti,206,Senegal,saint_louis,"Saint Louis, Senegal",,,,
+567,595,vec_595,2014,,,Aedes,aegypti,160,Senegal,kedougou,"Kedougou, Senegal",,,,
+567,596,vec_596,2014,,,Aedes,furcifer,71,Senegal,kedougou,"Kedougou, Senegal",,,,
+567,597,vec_597,2014,,,Aedes,taylori,86,Senegal,kedougou,"Kedougou, Senegal",,,,
+567,598,vec_598,2014,,,Aedes,luteocephalus,22,Senegal,kedougou,"Kedougou, Senegal",,,,
+635,599,vec_599,1973_1974,All_months,Both,Aedes,sp.,281,Gambia,saruja,"Saruja, Gambia",,,,
+635,600,vec_600,1973_1974,All_months,Both,Culex,neavei,829,Gambia,saruja,"Saruja, Gambia",,,,
+635,601,vec_601,1973_1974,All_months,Both,Culex,antennatus,495,Gambia,saruja,"Saruja, Gambia",,,,
+635,602,vec_602,1973_1974,All_months,Both,Culex,poicilipes,6033,Gambia,saruja,"Saruja, Gambia",,,,
+469,603,vec_603,2008_2009,All_months,Both,Culex,sp.,1,Gambia,walikunda,"Walikunda, Gambia",,,,
+469,604,vec_604,2008_2009,All_months,Both,Mansonia,sp.,1,Gambia,walikunda,"Walikunda, Gambia",,,,
+469,605,vec_605,2005,June_to_october,Rainy,Mansonia,sp.,7273,Gambia,farafenni,"Farafenni, Gambia",,,,
+469,606,vec_606,2005,June_to_october,Rainy,Aedes,aegypti,808,Gambia,farafenni,"Farafenni, Gambia",,,,
+469,607,vec_607,2005,June_to_october,Rainy,Aedes,vittatus,1,Gambia,farafenni,"Farafenni, Gambia",,,,
+469,608,vec_608,2005,June_to_october,Rainy,Aedes,fowleri,1,Gambia,farafenni,"Farafenni, Gambia",,,,
+469,609,vec_609,2005,June_to_october,Rainy,Culex,quinquefasciatus,58,Gambia,farafenni,"Farafenni, Gambia",,,,
+491,610,vec_610,2008,September,Rainy,Ornithodoros,sonrai,8,Senegal,tisse,"Tisse, Senegal",,,,
+491,611,vec_611,2008,September,Rainy,Ornithodoros,sonrai,24,Senegal,maka_gouye,"Maka Gouye, Senegal",,,,
+491,612,vec_612,2008,September,Rainy,Ornithodoros,sonrai,112,Senegal,dide,"Dide, Senegal",,,,
+491,613,vec_613,2008,September,Rainy,Ornithodoros,sonrai,84,Senegal,diana,"Diana, Senegal",,,,
+491,614,vec_614,2008,September,Rainy,Ornithodoros,sonrai,29,Senegal,dielmon,"Dielmon, Senegal",,,,
+491,615,vec_615,2008,September,Rainy,Ornithodoros,sonrai,75,Senegal,dakar,"Dakar, Senegal",,,,
+626,616,vec_616,2014,,,Aedes,vexans,420,Senegal,barkedji,"Barkedji, Senegal",,,,
+626,617,vec_617,2014,,,Culex,quinquefasciatus,563,Senegal,barkedji,"Barkedji, Senegal",,,,
+626,618,vec_618,2014,,,Culex,poicilipes,380,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,619,vec_619,2012_2013,July_to_december,Both,Aedes,aegypti,120,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,620,vec_620,2012_2013,July_to_december,Both,Aedes,dalzieli,1391,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,621,vec_621,2012_2013,July_to_december,Both,Aedes,fowleri,193,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,622,vec_622,2012_2013,July_to_december,Both,Aedes,furcifer,206,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,623,vec_623,2012_2013,July_to_december,Both,Aedes,luteocephalus,25,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,624,vec_624,2012_2013,July_to_december,Both,Aedes,metallicus,37,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,625,vec_625,2012_2013,July_to_december,Both,Aedes,ochraceus,2004,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,626,vec_626,2012_2013,July_to_december,Both,Aedes,sudanensis,774,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,627,vec_627,2012_2013,July_to_december,Both,Aedes,unilineatus,21,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,628,vec_628,2012_2013,July_to_december,Both,Aedes,vexans,11297,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,629,vec_629,2012_2013,July_to_december,Both,Aedes,vittatus,1,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,630,vec_630,2012_2013,July_to_december,Both,Culex,antennatus,1378,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,631,vec_631,2012_2013,July_to_december,Both,Culex,neavei,4223,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,632,vec_632,2012_2013,July_to_december,Both,Culex,perfuscus,547,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,633,vec_633,2012_2013,July_to_december,Both,Culex,poicilipes,7884,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,634,vec_634,2012_2013,July_to_december,Both,Culex,quinquefasciatus,84,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,635,vec_635,2012_2013,July_to_december,Both,Culex,tritaeniorhynchus,1646,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,636,vec_636,2012_2013,July_to_december,Both,Mansonia,africana,842,Senegal,barkedji,"Barkedji, Senegal",,,,
+413,637,vec_637,2012_2013,July_to_december,Both,Mansonia,uniformis,4222,Senegal,barkedji,"Barkedji, Senegal",,,,
+557,638,vec_638,2019,All_months,Both,Ornithodoros,sonrai,33,Senegal,diane_beredji,"Diane Beredji, Senegal",,,14.56666667,-16.3
+557,639,vec_639,2019,All_months,Both,Ornithodoros,sonrai,41,Senegal,ndiambour,"Ndiambour, Senegal",,,14.55,-16.33333333
+557,640,vec_640,2019,All_months,Both,Ornithodoros,sonrai,24,Senegal,dione_thiogome,"Dione Thiogome, Senegal",,,14.58333333,-16.35
+557,641,vec_641,2019,All_months,Both,Ornithodoros,sonrai,34,Senegal,mbakane_nenem,"Mbakane Nenem, Senegal",,,14.55,-16.38333333
+557,642,vec_642,2019,All_months,Both,Ornithodoros,sonrai,48,Senegal,patar,"Patar, Senegal",,,14.55,-16.36666667
+557,643,vec_643,2019,All_months,Both,Ornithodoros,sonrai,28,Senegal,wakhaldiam,"Wakhaldiam, Senegal",,,14.55,-16.4
+557,644,vec_644,2019,All_months,Both,Ornithodoros,sonrai,121,Senegal,ngayokheme,"Ngayokheme, Senegal",,,14.53333333,-16.4
+557,645,vec_645,2019,All_months,Both,Ornithodoros,sonrai,49,Senegal,ndioulbeth,"Ndioulbeth, Senegal",,,14.51666667,-16.36666667
+557,646,vec_646,2019,All_months,Both,Ornithodoros,sonrai,38,Senegal,mbadatte,"Mbadatte, Senegal",,,14.53333333,-16.35
+557,647,vec_647,2019,All_months,Both,Ornithodoros,sonrai,11,Senegal,mback,"Mback, Senegal",,,14.55,-16.33333333
+557,648,vec_648,2019,All_months,Both,Ornithodoros,sonrai,22,Senegal,ndoss_diarraff,"Ndoss Diarraff, Senegal",,,14.45,-16.35
+557,649,vec_649,2019,All_months,Both,Ornithodoros,sonrai,109,Senegal,ndoss_mbadiokh,"Ndoss Mbadiokh, Senegal",,,14.45,-16.35
+557,650,vec_650,2019,All_months,Both,Ornithodoros,sonrai,90,Senegal,ndoss_ndoffene,"Ndoss Ndoffene, Senegal",,,14.45,-16.35
+557,651,vec_651,2019,All_months,Both,Ornithodoros,sonrai,25,Senegal,mbafaye,"Mbafaye, Senegal",,,14.41666667,-16.4
+557,652,vec_652,2019,All_months,Both,Ornithodoros,sonrai,47,Senegal,sagne,"Sagne, Senegal",,,14.4,-16.4
+557,653,vec_653,2019,All_months,Both,Ornithodoros,sonrai,24,Senegal,godaguene,"Godaguene, Senegal",,,14.4,-16.38333333
+557,654,vec_654,2019,All_months,Both,Ornithodoros,sonrai,75,Senegal,mbane,"Mbane, Senegal",,,14.36666667,-16.41666667
+557,655,vec_655,2019,All_months,Both,Ornithodoros,sonrai,39,Senegal,dielmon,"Dielmon, Senegal",,,13.7,-16.4
+557,656,vec_656,2019,All_months,Both,Ornithodoros,sonrai,49,Senegal,ndiop,"Ndiop, Senegal",,,13.68333333,-16.38333333
+557,657,vec_657,2019,All_months,Both,Ornithodoros,sonrai,96,Senegal,passy,"Passy, Senegal",,,13.68333333,-16.38333333
+557,658,vec_658,2019,All_months,Both,Ornithodoros,sonrai,84,Senegal,touba_nding,"Touba Nding, Senegal",,,13.7,-16.41666667
+557,659,vec_659,2019,All_months,Both,Ornithodoros,sonrai,65,Senegal,nema_nding,"Nema Nding, Senegal",,,13.7,-16.4
+557,660,vec_660,2019,All_months,Both,Ornithodoros,sonrai,2,Senegal,sabouya,"Sabouya, Senegal",,,13.71666667,-16.38333333
+557,661,vec_661,2019,All_months,Both,Ornithodoros,sonrai,106,Senegal,daga_babou,"Daga Babou, Senegal",,,13.75,-16.43333333
+557,662,vec_662,2019,All_months,Both,Ornithodoros,sonrai,1,Senegal,keur_aliou_diop,"Keur Aliou Diop, Senegal",,,13.7,-16.35
+557,663,vec_663,2019,All_months,Both,Ornithodoros,sonrai,12,Senegal,kaur_simon_diene,"Kaur Simon Diene, Senegal",,,13.75,-16.38333333
+557,664,vec_664,2019,All_months,Both,Ornithodoros,sonrai,2,Senegal,nema_ba,"Nema Ba, Senegal",,,13.61666667,-16.28333333
+557,665,vec_665,2019,All_months,Both,Ornithodoros,sonrai,0,Senegal,medina,"Medina, Senegal",,,13.7,-16.4
+557,666,vec_666,2019,All_months,Both,Ornithodoros,sonrai,0,Senegal,sourou,"Sourou, Senegal",,,13.76666667,-16.46666667
+557,667,vec_667,2019,All_months,Both,Ornithodoros,sonrai,0,Senegal,bani,"Bani, Senegal",,,13.75,-16.46666667
+557,668,vec_668,2019,All_months,Both,Ornithodoros,sonrai,0,Senegal,firdawsi,"Firdawsi, Senegal",,,13.75,-16.45
+557,669,vec_669,2019,All_months,Both,Ornithodoros,sonrai,0,Senegal,keur_lahi_soce,"Keur Lahi Soce, Senegal",,,13.73333333,-16.41666667
+453,670,vec_670,2018,September,Rainy,Culex,quinquefasciatus,718,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,671,vec_671,2018,September,Rainy,Culex,poicilipes,6,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,672,vec_672,2018,September,Rainy,Culex,tritaeniorhynchus,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,673,vec_673,2018,September,Rainy,Mansonia,africana,6,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,674,vec_674,2018,September,Rainy,Mansonia,uniformis,39,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,675,vec_675,2018,September,Rainy,Aedes,aegypti,15,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,676,vec_676,2018,September,Rainy,Aedes,ochraceus,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,677,vec_677,2018,September,Rainy,Aedes,vexans,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,678,vec_678,2018,October,Rainy,Culex,quinquefasciatus,570,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,679,vec_679,2018,October,Rainy,Culex,poicilipes,10,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,680,vec_680,2018,October,Rainy,Culex,tritaeniorhynchus,2,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,681,vec_681,2018,October,Rainy,Mansonia,africana,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,682,vec_682,2018,October,Rainy,Mansonia,uniformis,35,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,683,vec_683,2018,October,Rainy,Aedes,aegypti,5,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,684,vec_684,2018,October,Rainy,Aedes,ochraceus,1,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,685,vec_685,2018,October,Rainy,Aedes,vexans,121,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,686,vec_686,2018,November,Dry,Culex,quinquefasciatus,545,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,687,vec_687,2018,November,Dry,Culex,poicilipes,18,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,688,vec_688,2018,November,Dry,Culex,tritaeniorhynchus,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,689,vec_689,2018,November,Dry,Mansonia,africana,4,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,690,vec_690,2018,November,Dry,Mansonia,uniformis,17,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,691,vec_691,2018,November,Dry,Aedes,aegypti,2,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,692,vec_692,2018,November,Dry,Aedes,ochraceus,5,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,693,vec_693,2018,November,Dry,Aedes,vexans,0,Senegal,madina_djikoye,"Madina Djikoye, Senegal",,,13.649875,-16.32681111
+453,694,vec_694,2018,September,Rainy,Culex,quinquefasciatus,139,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,695,vec_695,2018,September,Rainy,Culex,poicilipes,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,696,vec_696,2018,September,Rainy,Culex,tritaeniorhynchus,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,697,vec_697,2018,September,Rainy,Mansonia,africana,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,698,vec_698,2018,September,Rainy,Mansonia,uniformis,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,699,vec_699,2018,September,Rainy,Aedes,aegypti,18,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,700,vec_700,2018,September,Rainy,Aedes,ochraceus,12,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,701,vec_701,2018,September,Rainy,Aedes,vexans,104,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,702,vec_702,2018,November,Rainy,Culex,quinquefasciatus,1270,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,703,vec_703,2018,November,Rainy,Culex,poicilipes,7,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,704,vec_704,2018,November,Rainy,Culex,tritaeniorhynchus,16,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,705,vec_705,2018,November,Rainy,Mansonia,africana,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,706,vec_706,2018,November,Rainy,Mansonia,uniformis,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,707,vec_707,2018,November,Rainy,Aedes,aegypti,6,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,708,vec_708,2018,November,Rainy,Aedes,ochraceus,1,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+453,709,vec_709,2018,November,Rainy,Aedes,vexans,0,Senegal,djinkore_mafing,"Djinkore Mafing, Senegal",,,13.70648611,-13.65413889
+558,710,vec_710,2018_2021,All_months,Both,Ornithodoros,sonrai,253,Senegal,dodel,"Dodel, Senegal",,,16.48797222,-14.42194444
+501,711,vec_711,2017_2019,All_months,Both,Aedes,aegypti,1361,Senegal,dakar,"Dakar, Senegal",,,14.67291667,-17.44361111
+501,712,vec_712,2017_2020,All_months,Both,Aedes,aegypti,1271,Senegal,touba,"Touba, Senegal",,,14.85,-15.88333333
+501,713,vec_713,2017_2021,All_months,Both,Aedes,aegypti,1214,Senegal,mbour,"Mbour, Senegal",,,14.41877778,-16.95641667
+501,714,vec_714,2017_2022,All_months,Both,Aedes,aegypti,1385,Senegal,louga,"Louga, Senegal",,,15.62125,-16.23544444
+501,715,vec_715,2017_2023,All_months,Both,Aedes,aegypti,1313,Senegal,barkedji,"Barkedji, Senegal",,,15.27705556,-15.86272222
+501,716,vec_716,2017_2024,All_months,Both,Aedes,aegypti,1305,Senegal,fatick,"Fatick, Senegal",,,14.61861111,-16.22583333
+501,717,vec_717,2017_2025,All_months,Both,Aedes,aegypti,1352,Senegal,matam,"Matam, Senegal",,,15.66316667,-13.25519444
+501,718,vec_718,2017_2026,All_months,Both,Aedes,aegypti,1331,Senegal,ziguinchor,"Ziguinchor, Senegal",,,12.56316667,-16.29294444
+501,719,vec_719,2017_2027,All_months,Both,Aedes,aegypti,1338,Senegal,kedougou,"Kedougou, Senegal",,,12.56258333,-12.17552778
+547,720,vec_720,1991,All_months,Both,Aedes,vexans,6688,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,721,vec_721,1992,All_months,Both,Aedes,vexans,2654,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,722,vec_722,1993,All_months,Both,Aedes,vexans,1574,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,723,vec_723,1994,All_months,Both,Aedes,vexans,4756,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,724,vec_724,1995,All_months,Both,Aedes,vexans,12545,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,725,vec_725,1996,All_months,Both,Aedes,vexans,8114,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,726,vec_726,1991,All_months,Both,Culex,poicilipes,2780,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,727,vec_727,1992,All_months,Both,Culex,poicilipes,1026,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,728,vec_728,1993,All_months,Both,Culex,poicilipes,21213,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,729,vec_729,1994,All_months,Both,Culex,poicilipes,4001,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,730,vec_730,1995,All_months,Both,Culex,poicilipes,4964,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,731,vec_731,1996,All_months,Both,Culex,poicilipes,2926,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,732,vec_732,2002,All_months,Both,Aedes,vexans,799,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,733,vec_733,2003,All_months,Both,Aedes,vexans,1106,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,734,vec_734,2002,All_months,Both,Culex,poicilipes,56,Senegal,barkedji,"Barkedji, Senegal",,,,
+547,735,vec_735,2003,All_months,Both,Culex,poicilipes,468,Senegal,barkedji,"Barkedji, Senegal",,,,
+473,736,vec_736,2007,July,Rainy,Aedes,aegypti,26,Senegal,saint_louis,"Saint Louis, Senegal",,,16.02564722,-16.50498333
+473,737,vec_737,2007,July,Rainy,Aedes,aegypti,58,Senegal,digale,"Digale, Senegal",,,16.18333333,-15.75
+473,738,vec_738,2007,July,Rainy,Aedes,aegypti,58,Senegal,louga,"Louga, Senegal",,,15.61528611,-16.22154444
+473,739,vec_739,2005,January,Dry,Aedes,aegypti,61,Senegal,dakar,"Dakar, Senegal",,,14.74999167,-17.46642222
+473,740,vec_740,2007,June,Rainy,Aedes,aegypti,59,Senegal,ngoye,"Ngoye, Senegal",,,14.61423611,-16.41188611
+473,741,vec_741,2007,April,Dry,Aedes,aegypti,73,Senegal,touba,"Touba, Senegal",,,14.85935278,-15.87883333
+473,742,vec_742,2006,July,Rainy,Aedes,aegypti,36,Senegal,mindin,"Mindin, Senegal",,,14.06626389,-15.29965556
+473,743,vec_743,2006,July,Rainy,Aedes,aegypti,43,Senegal,kaffrine,"Kaffrine, Senegal",,,14.10661944,-15.55201389
+473,744,vec_744,2006,July,Rainy,Aedes,aegypti,52,Senegal,koungheul,"Koungheul, Senegal",,,13.97596944,-14.80419722
+473,745,vec_745,2006,July,Rainy,Aedes,aegypti,105,Senegal,tambacounda,"Tambacounda, Senegal",,,13.77309167,-13.67731944
+473,746,vec_746,2006,July,Rainy,Aedes,aegypti,25,Senegal,saraya,"Saraya, Senegal",,,12.83333333,-11.75
+473,747,vec_747,2006,July,Rainy,Aedes,aegypti,26,Senegal,dienoudialla,"Dienoudialla, Senegal",,,13.21445833,-13.11198611
+473,748,vec_748,2007,July,Rainy,Aedes,aegypti,58,Senegal,goudiri,"Goudiri, Senegal",,,14.18695,-12.71219722
+473,749,vec_749,2006,July,Rainy,Aedes,aegypti,69,Senegal,niemenike,"Niemenike, Senegal",,,13.00708889,-12.54670556
+473,750,vec_750,2006,November,Dry,Aedes,aegypti,57,Senegal,ngari,"Ngari, Senegal",,,12.63349167,-12.24993611
+473,751,vec_751,2006,November,Dry,Aedes,aegypti,40,Senegal,pk10,"Pk10, Senegal",,,12.600025,-12.23340278
+473,752,vec_752,2006,November,Dry,Aedes,aegypti,83,Senegal,deux_riviers,"Deux Riviers, Senegal",,,12.63338889,-12.233375
+473,753,vec_753,2007,July,Rainy,Aedes,aegypti,58,Senegal,simenti,"Simenti, Senegal",,,13.03325556,-13.29965833
+473,754,vec_754,2006,July,Rainy,Aedes,aegypti,53,Senegal,fongolimbi,"Fongolimbi, Senegal",,,12.41246667,-12.0116
+486,755,vec_755,2010,February,Dry,Aedes,aegypti,173,Senegal,pk10,"Pk10, Senegal",,,,
+486,756,vec_756,2011,September,Rainy,Aedes,aegypti,80,Senegal,pk10,"Pk10, Senegal",,,,
+291,757,vec_757,1988,All_months,Both,Tick,sp.,176,Gambia,keneba,"Keneba, Gambia",,,,
+291,758,vec_758,1988,All_months,Both,Tick,sp.,103,Gambia,fugga,"Fugga, Gambia",,,,
+291,759,vec_759,1988,All_months,Both,Tick,sp.,9,Gambia,sambel_kunda,"Sambel Kunda, Gambia",,,,
+352,760,vec_760,2014,June,Rainy,Rhipicephalus,evertesi_evertesi,172,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.916667,-15.966667
+352,761,vec_761,2014,June,Rainy,Hyalomma,impeltatum,10,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.916667,-15.966667
+352,762,vec_762,2014,June,Rainy,Hyalomma,rufipes,17,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.916667,-15.966667
+352,763,vec_763,2014,June,Rainy,Rhipicephalus,bursa,3,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.916667,-15.966667
+352,764,vec_764,2014,June,Rainy,Rhipicephalus,muhsamae,2,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,15.916667,-15.966667
+409,765,vec_765,1999,June,Rainy,Aedes,furcifer,1134,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,766,vec_766,1999,October,Rainy,Aedes,furcifer,1998,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,767,vec_767,1999,November,Dry,Aedes,furcifer,1425,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,768,vec_768,1999,June,Rainy,Aedes,taylori,379,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,769,vec_769,1999,October,Rainy,Aedes,taylori,124,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,770,vec_770,1999,November,Dry,Aedes,taylori,575,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,771,vec_771,1999,June,Rainy,Aedes,luteocephalus,1064,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,772,vec_772,1999,October,Rainy,Aedes,luteocephalus,682,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,773,vec_773,1999,November,Dry,Aedes,luteocephalus,392,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,774,vec_774,1999,June,Rainy,Aedes,aegypti,54,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,775,vec_775,1999,October,Rainy,Aedes,aegypti,3366,Senegal,kedougou,"Kedougou, Senegal",,,,
+409,776,vec_776,1999,November,Dry,Aedes,aegypti,7984,Senegal,kedougou,"Kedougou, Senegal",,,,
+412,777,vec_777,1990,October_to_november,Both,Aedes,dalzieli,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,778,vec_778,1990,October_to_november,Both,Aedes,fowleri,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,779,vec_779,1990,October_to_november,Both,Aedes,ochraceus,3,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,780,vec_780,1990,October_to_november,Both,Aedes,vexans,245,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,781,vec_781,1990,October_to_november,Both,Aedes,vittatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,782,vec_782,1990,October_to_november,Both,Aedes,furcifer,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,783,vec_783,1990,October_to_november,Both,Aedes,sudanensis,5,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,784,vec_784,1990,October_to_november,Both,Aedes,aegypti,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,785,vec_785,1990,October_to_november,Both,Aedes,luteocephalus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,786,vec_786,1990,October_to_november,Both,Aedes,metallicus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,787,vec_787,1990,October_to_november,Both,Aedes,unilineatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,788,vec_788,1990,October_to_november,Both,Aedes,antennatus,24,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,789,vec_789,1990,October_to_november,Both,Culex,neavei,199,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,790,vec_790,1990,October_to_november,Both,Culex,perfuscus,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,791,vec_791,1990,October_to_november,Both,Culex,poicilipes,21668,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,792,vec_792,1990,October_to_november,Both,Culex,quinquefasciatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,793,vec_793,1990,October_to_november,Both,Culex,tritaeniorhynchus,98,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,794,vec_794,1990,October_to_november,Both,Mansonia,africana,225,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,795,vec_795,1990,October_to_november,Both,Mansonia,uniformis,192,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,796,vec_796,1991,All_months,Both,Aedes,dalzieli,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,797,vec_797,1991,All_months,Both,Aedes,fowleri,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,798,vec_798,1991,All_months,Both,Aedes,ochraceus,282,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,799,vec_799,1991,All_months,Both,Aedes,vexans,10247,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,800,vec_800,1991,All_months,Both,Aedes,vittatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,801,vec_801,1991,All_months,Both,Aedes,furcifer,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,802,vec_802,1991,All_months,Both,Aedes,sudanensis,344,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,803,vec_803,1991,All_months,Both,Aedes,aegypti,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,804,vec_804,1991,All_months,Both,Aedes,luteocephalus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,805,vec_805,1991,All_months,Both,Aedes,metallicus,17,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,806,vec_806,1991,All_months,Both,Aedes,unilineatus,36,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,807,vec_807,1991,All_months,Both,Aedes,antennatus,1177,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,808,vec_808,1991,All_months,Both,Culex,neavei,756,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,809,vec_809,1991,All_months,Both,Culex,perfuscus,134,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,810,vec_810,1991,All_months,Both,Culex,poicilipes,7363,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,811,vec_811,1991,All_months,Both,Culex,quinquefasciatus,339,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,812,vec_812,1991,All_months,Both,Culex,tritaeniorhynchus,137,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,813,vec_813,1991,All_months,Both,Mansonia,africana,1559,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,814,vec_814,1991,All_months,Both,Mansonia,uniformis,156,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,815,vec_815,1992,All_months,Both,Aedes,dalzieli,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,816,vec_816,1992,All_months,Both,Aedes,fowleri,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,817,vec_817,1992,All_months,Both,Aedes,ochraceus,634,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,818,vec_818,1992,All_months,Both,Aedes,vexans,4204,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,819,vec_819,1992,All_months,Both,Aedes,vittatus,1,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,820,vec_820,1992,All_months,Both,Aedes,furcifer,125,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,821,vec_821,1992,All_months,Both,Aedes,sudanensis,252,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,822,vec_822,1992,All_months,Both,Aedes,aegypti,10,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,823,vec_823,1992,All_months,Both,Aedes,luteocephalus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,824,vec_824,1992,All_months,Both,Aedes,metallicus,101,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,825,vec_825,1992,All_months,Both,Aedes,unilineatus,134,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,826,vec_826,1992,All_months,Both,Aedes,antennatus,478,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,827,vec_827,1992,All_months,Both,Culex,neavei,1946,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,828,vec_828,1992,All_months,Both,Culex,perfuscus,239,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,829,vec_829,1992,All_months,Both,Culex,poicilipes,11151,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,830,vec_830,1992,All_months,Both,Culex,quinquefasciatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,831,vec_831,1992,All_months,Both,Culex,tritaeniorhynchus,1242,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,832,vec_832,1992,All_months,Both,Mansonia,africana,4524,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,833,vec_833,1992,All_months,Both,Mansonia,uniformis,703,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,834,vec_834,1993,All_months,Both,Aedes,dalzieli,10,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,835,vec_835,1993,All_months,Both,Aedes,fowleri,19,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,836,vec_836,1993,All_months,Both,Aedes,ochraceus,1169,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,837,vec_837,1993,All_months,Both,Aedes,vexans,4174,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,838,vec_838,1993,All_months,Both,Aedes,vittatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,839,vec_839,1993,All_months,Both,Aedes,furcifer,139,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,840,vec_840,1993,All_months,Both,Aedes,sudanensis,184,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,841,vec_841,1993,All_months,Both,Aedes,aegypti,9,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,842,vec_842,1993,All_months,Both,Aedes,luteocephalus,1,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,843,vec_843,1993,All_months,Both,Aedes,metallicus,59,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,844,vec_844,1993,All_months,Both,Aedes,unilineatus,64,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,845,vec_845,1993,All_months,Both,Aedes,antennatus,482,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,846,vec_846,1993,All_months,Both,Culex,neavei,3602,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,847,vec_847,1993,All_months,Both,Culex,perfuscus,330,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,848,vec_848,1993,All_months,Both,Culex,poicilipes,28630,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,849,vec_849,1993,All_months,Both,Culex,quinquefasciatus,291,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,850,vec_850,1993,All_months,Both,Culex,tritaeniorhynchus,182,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,851,vec_851,1993,All_months,Both,Mansonia,africana,4636,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,852,vec_852,1993,All_months,Both,Mansonia,uniformis,925,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,853,vec_853,1994,All_months,Both,Aedes,dalzieli,24,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,854,vec_854,1994,All_months,Both,Aedes,fowleri,9,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,855,vec_855,1994,All_months,Both,Aedes,ochraceus,1069,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,856,vec_856,1994,All_months,Both,Aedes,vexans,6971,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,857,vec_857,1994,All_months,Both,Aedes,vittatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,858,vec_858,1994,All_months,Both,Aedes,furcifer,129,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,859,vec_859,1994,All_months,Both,Aedes,sudanensis,66,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,860,vec_860,1994,All_months,Both,Aedes,aegypti,1,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,861,vec_861,1994,All_months,Both,Aedes,luteocephalus,10,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,862,vec_862,1994,All_months,Both,Aedes,metallicus,93,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,863,vec_863,1994,All_months,Both,Aedes,unilineatus,43,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,864,vec_864,1994,All_months,Both,Aedes,antennatus,298,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,865,vec_865,1994,All_months,Both,Culex,neavei,950,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,866,vec_866,1994,All_months,Both,Culex,perfuscus,59,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,867,vec_867,1994,All_months,Both,Culex,poicilipes,7014,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,868,vec_868,1994,All_months,Both,Culex,quinquefasciatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,869,vec_869,1994,All_months,Both,Culex,tritaeniorhynchus,360,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,870,vec_870,1994,All_months,Both,Mansonia,africana,5650,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,871,vec_871,1994,All_months,Both,Mansonia,uniformis,140,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,872,vec_872,1995,All_months,Both,Aedes,dalzieli,29,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,873,vec_873,1995,All_months,Both,Aedes,fowleri,10,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,874,vec_874,1995,All_months,Both,Aedes,ochraceus,302,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,875,vec_875,1995,All_months,Both,Aedes,vexans,14953,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,876,vec_876,1995,All_months,Both,Aedes,vittatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,877,vec_877,1995,All_months,Both,Aedes,furcifer,82,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,878,vec_878,1995,All_months,Both,Aedes,sudanensis,307,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,879,vec_879,1995,All_months,Both,Aedes,aegypti,3,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,880,vec_880,1995,All_months,Both,Aedes,luteocephalus,6,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,881,vec_881,1995,All_months,Both,Aedes,metallicus,22,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,882,vec_882,1995,All_months,Both,Aedes,unilineatus,16,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,883,vec_883,1995,All_months,Both,Aedes,antennatus,1085,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,884,vec_884,1995,All_months,Both,Culex,neavei,1409,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,885,vec_885,1995,All_months,Both,Culex,perfuscus,140,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,886,vec_886,1995,All_months,Both,Culex,poicilipes,6737,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,887,vec_887,1995,All_months,Both,Culex,quinquefasciatus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,888,vec_888,1995,All_months,Both,Culex,tritaeniorhynchus,1572,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,889,vec_889,1995,All_months,Both,Mansonia,africana,474,Senegal,barkedji,"Barkedji, Senegal",,,,
+412,890,vec_890,1995,All_months,Both,Mansonia,uniformis,3026,Senegal,barkedji,"Barkedji, Senegal",,,,
+414,891,vec_891,2002,August,Rainy,Aedes,vexans,13424,Senegal,niakhar,"Niakhar, Senegal",,,,
+414,892,vec_892,2002,September,Rainy,Aedes,vexans,8723,Senegal,niakhar,"Niakhar, Senegal",,,,
+414,893,vec_893,2002,October,Rainy,Aedes,vexans,29347,Senegal,niakhar,"Niakhar, Senegal",,,,
+414,894,vec_894,2003,July,Rainy,Aedes,vexans,781,Senegal,niakhar,"Niakhar, Senegal",,,,
+414,895,vec_895,2002,November,Dry,Culex,poicilipes,16934,Senegal,niakhar,"Niakhar, Senegal",,,,
+415,896,vec_896,1987,May,Dry,Hyalomma,truncatum,1,Senegal,bandia,"Bandia, Senegal",,,,
+415,897,vec_897,1987,May,Dry,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,898,vec_898,1987,June,Rainy,Hyalomma,truncatum,4,Senegal,bandia,"Bandia, Senegal",,,,
+415,899,vec_899,1987,June,Rainy,Rhipicephalus,guilhoni,1,Senegal,bandia,"Bandia, Senegal",,,,
+415,900,vec_900,1987,July,Rainy,Rhipicephalus,sulcatus,1,Senegal,bandia,"Bandia, Senegal",,,,
+415,901,vec_901,1987,July,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,902,vec_902,1987,August,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,903,vec_903,1987,August,Rainy,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,904,vec_904,1987,September,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,905,vec_905,1987,September,Rainy,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,906,vec_906,1987,October,Rainy,Hyalomma,truncatum,1,Senegal,bandia,"Bandia, Senegal",,,,
+415,907,vec_907,1987,October,Rainy,Rhipicephalus,guilhoni,2,Senegal,bandia,"Bandia, Senegal",,,,
+415,908,vec_908,1988,February,Dry,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,909,vec_909,1988,February,Dry,Rhipicephalus,guilhoni,1,Senegal,bandia,"Bandia, Senegal",,,,
+415,910,vec_910,1988,March,Dry,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,911,vec_911,1988,March,Dry,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,912,vec_912,1988,April,Dry,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,913,vec_913,1988,April,Dry,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,914,vec_914,1988,May,Dry,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,915,vec_915,1988,May,Dry,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,916,vec_916,1988,June,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,917,vec_917,1988,June,Rainy,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,918,vec_918,1988,July,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,919,vec_919,1988,July,Rainy,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,920,vec_920,1988,August,Rainy,Hyalomma,truncatum,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,921,vec_921,1988,August,Rainy,Rhipicephalus,guilhoni,0,Senegal,bandia,"Bandia, Senegal",,,,
+415,922,vec_922,1987,May,Dry,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,923,vec_923,1987,May,Dry,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,924,vec_924,1987,June,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,925,vec_925,1987,June,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,926,vec_926,1987,July,Rainy,Hyalomma,truncatum,2,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,927,vec_927,1987,July,Rainy,Rhipicephalus,sulcatus,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,928,vec_928,1987,August,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,929,vec_929,1987,August,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,930,vec_930,1987,September,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,931,vec_931,1987,September,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,932,vec_932,1987,October,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,933,vec_933,1987,October,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,934,vec_934,1987,November,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,935,vec_935,1987,November,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,936,vec_936,1987,December,Rainy,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,937,vec_937,1987,December,Rainy,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,938,vec_938,1988,January,Dry,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,939,vec_939,1988,January,Dry,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,940,vec_940,1988,February,Dry,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,941,vec_941,1988,February,Dry,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,942,vec_942,1988,March,Dry,Hyalomma,truncatum,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+415,943,vec_943,1988,March,Dry,Rhipicephalus,guilhoni,0,Senegal,yonofere,"Yonofere, Senegal",,,,
+416,944,vec_944,,August_to_october,Rainy,Culex,sp.,22623,Gambia,walikunda,"Walikunda, Gambia",,,,
+416,945,vec_945,,August_to_october,Rainy,Mansonia,sp.,138910,Gambia,walikunda,"Walikunda, Gambia",,,,
+441,946,vec_946,1989,April,Dry,Hyalomma,truncatum,19,Senegal,bandia,"Bandia, Senegal",,,,
+441,947,vec_947,1991,July,Rainy,Ambylomma,variegatum,3,Senegal,nguekhokhe,"Nguekhokhe, Senegal",,,,
+441,948,vec_948,1991,July,Rainy,Hyalomma,rufipes,20,Senegal,bandia,"Bandia, Senegal",,,,
+441,949,vec_949,1991,November,Dry,Hyalomma,rufipes,3,Senegal,nguekhokhe,"Nguekhokhe, Senegal",,,,
+441,950,vec_950,1991,November,Dry,Ambylomma,variegatum,102,Senegal,bandia,"Bandia, Senegal",,,,
+441,951,vec_951,1991,November,Dry,Rhipicephalus,guilhoni,12,Senegal,bandia,"Bandia, Senegal",,,,
+441,952,vec_952,1991,December,Dry,Rhipicephalus,evertesi_evertesi,40,Senegal,bandia,"Bandia, Senegal",,,,
+441,953,vec_953,1992,January,Dry,Hyalomma,rufipes,19,Senegal,bandia,"Bandia, Senegal",,,,
+441,954,vec_954,1992,February,Dry,Hyalomma,rufipes,3,Senegal,nguekhokhe,"Nguekhokhe, Senegal",,,,
+441,955,vec_955,1992,March,Dry,Hyalomma,rufipes,2,Senegal,bandia,"Bandia, Senegal",,,,
+441,956,vec_956,1992,June,Rainy,Hyalomma,rufipes,18,Senegal,bandia,"Bandia, Senegal",,,,
+441,957,vec_957,1992,July,Rainy,Hyalomma,rufipes,43,Senegal,bandia,"Bandia, Senegal",,,,
+484,958,vec_958,2002,November,Dry,Aedes,aegypti,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+484,959,vec_959,2002,November,Dry,Aedes,aegypti,1,Senegal,gasse,"Gasse, Senegal",,,,
+484,960,vec_960,2002,November,Dry,Aedes,aegypti,2,Senegal,diagali,"Diagali, Senegal",,,,
+484,961,vec_961,2003,January,Dry,Aedes,aegypti,2,Senegal,gallo,"Gallo, Senegal",,,,
+484,962,vec_962,2003,January,Dry,Aedes,aegypti,2,Senegal,ndione,"Ndione, Senegal",,,,
+484,963,vec_963,2003,January,Dry,Aedes,aegypti,1,Senegal,kholdabetch,"Kholdabetch, Senegal",,,,
+484,964,vec_964,2003,January,Dry,Aedes,aegypti,1,Senegal,thialy,"Thialy, Senegal",,,,
+484,965,vec_965,2003,January,Dry,Aedes,aegypti,1,Senegal,ndougoubene,"Ndougoubene, Senegal",,,,
+484,966,vec_966,2003,January,Dry,Aedes,aegypti,1,Senegal,tun_cope,"Tun Cope, Senegal",,,,
+484,967,vec_967,2003,January,Dry,Aedes,aegypti,2,Senegal,darou_koung_koung,"Darou Koung Koung, Senegal",,,,
+484,968,vec_968,2003,January,Dry,Aedes,aegypti,2,Senegal,thiakhathie,"Thiakhathie, Senegal",,,,
+484,969,vec_969,2003,January,Dry,Aedes,aegypti,2,Senegal,ribo_kodiole,"Ribo Kodiole, Senegal",,,,
+484,970,vec_970,2002,November,Dry,Aedes,aegypti,1,Senegal,darou_wolof,"Darou Wolof, Senegal",,,,
+484,971,vec_971,2002,November,Dry,Aedes,aegypti,2,Senegal,fadiga,"Fadiga, Senegal",,,,
+484,972,vec_972,2002,November,Dry,Aedes,aegypti,3,Senegal,pk10,"Pk10, Senegal",,,,
+489,973,vec_973,2019,All_months,Both,Ornithodoros,sonrai,819,Senegal,niakhar,"Niakhar, Senegal",,,,
+489,974,vec_974,2019,All_months,Both,Ornithodoros,sonrai,456,Senegal,sine_saloum,"Sine Saloum, Senegal",,,,
+493,975,vec_975,2011,July,Rainy,Ambylomma,variegatum,3,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,,
+493,976,vec_976,2011,July,Rainy,Hyalomma,impeltatum,557,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,,
+493,977,vec_977,2011,July,Rainy,Hyalomma,marginatum_rufipes,131,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,,
+493,978,vec_978,2011,July,Rainy,Rhipicephalus,evertesi_evertesi,477,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,,
+493,979,vec_979,2011,July,Rainy,Rhipicephalus,guilhoni,1,Senegal,keur_momar_sarr,"Keur Momar Sarr, Senegal",,,,
+499,980,vec_980,2019,February_to_september,Both,Aedes,aegypti,18895,Senegal,dakar,"Dakar, Senegal",,,14.722969,-17.434227
+499,981,vec_981,2019,February_to_september,Both,Culex,quinquefasciatus,16175,Senegal,dakar,"Dakar, Senegal",,,14.722969,-17.434227
+499,982,vec_982,2019,February_to_september,Both,Culex,tritaeniorhynchus,1,Senegal,dakar,"Dakar, Senegal",,,14.722969,-17.434227
+502,983,vec_983,2009,November,Dry,Aedes,aegypti,1006,Senegal,dakar,"Dakar, Senegal",,,,
+509,984,vec_984,1990,October_to_november,Both,Aedes,ochraceus,3,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,985,vec_985,1990,October_to_november,Both,Aedes,vexans,245,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,986,vec_986,1990,October_to_november,Both,Aedes,sudanensis,5,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,987,vec_987,1990,October_to_november,Both,Aedes,antennatus,24,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,988,vec_988,1990,October_to_november,Both,Culex,neavei,199,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,989,vec_989,1990,October_to_november,Both,Culex,perfuscus,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,990,vec_990,1990,October_to_november,Both,Culex,poicilipes,21668,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,991,vec_991,1990,October_to_november,Both,Culex,tritaeniorhynchus,98,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,992,vec_992,1990,October_to_november,Both,Mansonia,africana,225,Senegal,barkedji,"Barkedji, Senegal",,,,
+509,993,vec_993,1990,October_to_november,Both,Mansonia,uniformis,192,Senegal,barkedji,"Barkedji, Senegal",,,,
+534,994,vec_994,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,giboro_kuta,"Giboro Kuta, Gambia",,,,
+534,995,vec_995,2005,July_to_august,Rainy,Ambylomma,variegatum,53,Gambia,tumani_tenda,"Tumani Tenda, Gambia",,,,
+534,996,vec_996,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,mandinaba,"Mandinaba, Gambia",,,,
+534,997,vec_997,2005,July_to_august,Rainy,Ambylomma,variegatum,65,Gambia,somita,"Somita, Gambia",,,,
+534,998,vec_998,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,keneba,"Keneba, Gambia",,,,
+534,999,vec_999,2005,July_to_august,Rainy,Ambylomma,variegatum,100,Gambia,burong,"Burong, Gambia",,,,
+534,1000,vec_1000,2005,July_to_august,Rainy,Ambylomma,variegatum,60,Gambia,kolikunda,"Kolikunda, Gambia",,,,
+534,1001,vec_1001,2005,July_to_august,Rainy,Ambylomma,variegatum,53,Gambia,mbappa_ba,"Mbappa Ba, Gambia",,,,
+534,1002,vec_1002,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,yorro_beri_kunda,"Yorro Beri Kunda, Gambia",,,,
+534,1003,vec_1003,2005,July_to_august,Rainy,Ambylomma,variegatum,55,Gambia,sare_sofi,"Sare Sofi, Gambia",,,,
+534,1004,vec_1004,2005,July_to_august,Rainy,Ambylomma,variegatum,63,Gambia,mamud_fana,"Mamud Fana, Gambia",,,,
+534,1005,vec_1005,2005,July_to_august,Rainy,Ambylomma,variegatum,67,Gambia,jimballa_kerr_malick,"Jimballa Kerr Malick, Gambia",,,,
+534,1006,vec_1006,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,kulkulay,"Kulkulay, Gambia",,,,
+534,1007,vec_1007,2005,July_to_august,Rainy,Ambylomma,variegatum,50,Gambia,sare_demba_torro,"Sare Demba Torro, Gambia",,,,
+535,1008,vec_1008,2002_2004,All_months,Both,Ornithodoros,sonrai,3,Senegal,richard_toll,"Richard Toll, Senegal",,,,
+535,1009,vec_1009,2002_2004,All_months,Both,Ornithodoros,sonrai,2,Senegal,gankette,"Gankette, Senegal",,,,
+535,1010,vec_1010,2002_2004,All_months,Both,Ornithodoros,sonrai,3,Senegal,kanene_khar,"Kanene Khar, Senegal",,,,
+535,1011,vec_1011,2002_2004,All_months,Both,Ornithodoros,sonrai,2,Senegal,darou_mousti,"Darou Mousti, Senegal",,,,
+535,1012,vec_1012,2002_2004,All_months,Both,Ornithodoros,sonrai,1,Senegal,colobane,"Colobane, Senegal",,,,
+535,1013,vec_1013,2002_2004,All_months,Both,Ornithodoros,sonrai,2,Senegal,bandia,"Bandia, Senegal",,,,
+535,1014,vec_1014,2002_2004,All_months,Both,Ornithodoros,sonrai,3,Senegal,ina,"Ina, Senegal",,,,
+535,1015,vec_1015,2002_2004,All_months,Both,Ornithodoros,sonrai,3,Senegal,ngor,"Ngor, Senegal",,,,
+535,1016,vec_1016,2002_2004,All_months,Both,Ornithodoros,sonrai,2,Senegal,dielmon,"Dielmon, Senegal",,,,
+535,1017,vec_1017,2002_2004,All_months,Both,Ornithodoros,sonrai,2,Senegal,kenieba,"Kenieba, Senegal",,,14.08678238,-12.05699081
+538,1018,vec_1018,2005,,Dry,Aedes,aegypti,397,Senegal,niakhar,"Niakhar, Senegal",,,,
+538,1019,vec_1019,2005,,Rainy,Aedes,aegypti,351,Senegal,niakhar,"Niakhar, Senegal",,,,
+540,1020,vec_1020,2003_2004,July_to_october,Rainy,Aedes,vexans,140,Senegal,ngao,"Ngao, Senegal",,,15.24083333,-14.85222222
+540,1021,vec_1021,2003_2004,July_to_october,Rainy,Aedes,vexans,101,Senegal,kangaledji,"Kangaledji, Senegal",,,15.27138889,-14.84305556
+541,1022,vec_1022,1975,February_to_july,Both,Culex,neavei,1,Gambia,bansang,"Bansang, Gambia",,,,
+541,1023,vec_1023,1975,February_to_july,Both,Culex,poicilipes,1,Gambia,bansang,"Bansang, Gambia",,,,
+541,1024,vec_1024,1975,February_to_july,Both,Mansonia,uniformis,1,Gambia,bansang,"Bansang, Gambia",,,,
+541,1025,vec_1025,1975,February_to_july,Both,Mansonia,africana,1,Gambia,bansang,"Bansang, Gambia",,,,
+541,1026,vec_1026,1975,February_to_july,Both,Culex,antennatus,1,Gambia,bansang,"Bansang, Gambia",,,,
+584,1027,vec_1027,1994_1995,All_months,Both,Boophilus,sp.,10472,Gambia,bansang,"Bansang, Gambia",,,,
+584,1028,vec_1028,1994_1995,All_months,Both,Hyalomma,sp.,5606,Gambia,bansang,"Bansang, Gambia",,,,
+584,1029,vec_1029,1994_1995,All_months,Both,Rhipicephalus,senegalensis,3299,Gambia,bansang,"Bansang, Gambia",,,,
+584,1030,vec_1030,1994_1995,All_months,Both,Ambylomma,variegatum,1697,Gambia,bansang,"Bansang, Gambia",,,,
+603,1031,vec_1031,2005,,Rainy,Aedes,dalzieli,207,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1032,vec_1032,2005,,Rainy,Aedes,fowleri,69,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1033,vec_1033,2005,,Rainy,Aedes,ochraceus,1488,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1034,vec_1034,2005,,Rainy,Aedes,vexans,1934,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1035,vec_1035,2005,,Rainy,Aedes,furcifer,4,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1036,vec_1036,2005,,Rainy,Aedes,sudanensis,518,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1037,vec_1037,2005,,Rainy,Aedes,aegypti,8,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1038,vec_1038,2005,,Rainy,Aedes,luteocephalus,3,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1039,vec_1039,2005,,Rainy,Aedes,metallicus,8,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1040,vec_1040,2005,,Rainy,Aedes,unilineatus,64,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1041,vec_1041,2005,,Rainy,Culex,antennatus,585,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1042,vec_1042,2005,,Rainy,Culex,neavei,1846,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1043,vec_1043,2005,,Rainy,Culex,perfuscus,385,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1044,vec_1044,2005,,Rainy,Culex,poicilipes,4648,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1045,vec_1045,2005,,Rainy,Culex,quinquefasciatus,54,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1046,vec_1046,2005,,Rainy,Culex,tritaeniorhynchus,200,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1047,vec_1047,2005,,Rainy,Mansonia,africana,69,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1048,vec_1048,2005,,Rainy,Mansonia,uniformis,1158,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1049,vec_1049,2006,,Rainy,Aedes,dalzieli,112,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1050,vec_1050,2006,,Rainy,Aedes,fowleri,30,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1051,vec_1051,2006,,Rainy,Aedes,ochraceus,1564,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1052,vec_1052,2006,,Rainy,Aedes,vexans,4345,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1053,vec_1053,2006,,Rainy,Aedes,furcifer,2,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1054,vec_1054,2006,,Rainy,Aedes,sudanensis,386,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1055,vec_1055,2006,,Rainy,Aedes,aegypti,5,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1056,vec_1056,2006,,Rainy,Aedes,luteocephalus,0,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1057,vec_1057,2006,,Rainy,Aedes,metallicus,9,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1058,vec_1058,2006,,Rainy,Aedes,unilineatus,65,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1059,vec_1059,2006,,Rainy,Culex,antennatus,231,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1060,vec_1060,2006,,Rainy,Culex,neavei,1598,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1061,vec_1061,2006,,Rainy,Culex,perfuscus,79,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1062,vec_1062,2006,,Rainy,Culex,poicilipes,3660,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1063,vec_1063,2006,,Rainy,Culex,quinquefasciatus,10,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1064,vec_1064,2006,,Rainy,Culex,tritaeniorhynchus,418,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1065,vec_1065,2006,,Rainy,Mansonia,africana,109,Senegal,barkedji,"Barkedji, Senegal",,,,
+603,1066,vec_1066,2006,,Rainy,Mansonia,uniformis,1017,Senegal,barkedji,"Barkedji, Senegal",,,,
+630,1067,vec_1067,2015,,,Aedes,vexans,420,Senegal,barkedji,"Barkedji, Senegal",,,,
+630,1068,vec_1068,2015,,,Culex,quinquefasciatus,563,Senegal,barkedji,"Barkedji, Senegal",,,,
+630,1069,vec_1069,2015,,,Culex,poicilipes,380,Senegal,barkedji,"Barkedji, Senegal",,,,

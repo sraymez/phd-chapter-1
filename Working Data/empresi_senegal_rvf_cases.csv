@@ -1,0 +1,77 @@
+Event ID,Disease,Serotype,latitude,longitude,Locality,Country,Region,observation date,report date,Species,Diagnosis Source,Humans Affected,Human Deaths,Diagnosis Status
+183404,Rift Valley fever,,14.826792,-17.245701,Sangalkhame,Senegal,Africa,2013-10-10T00:00:00Z,2014-03-14T00:00:00Z,"Domestic,Cattle,",WOAH (former OIE),,,Confirmed
+160877,Rift Valley fever,,14.5411,-17.01807,Daka Niaye,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+236218,Rift Valley fever,,13.77,-15.87,Keur Oumar,Senegal,Africa,2018-03-28T00:00:00Z,2018-04-16T00:00:00Z,"Domestic,Sheep,",FAO Field Officer,,,Denied
+199995,Rift Valley fever,,12.46388,-12.46833,"Baya Village, KedougouTambacounda, Senegal",Senegal,Africa,2012-10-16T00:00:00Z,2012-10-16T00:00:00Z,,Publications,,,Confirmed
+160857,Rift Valley fever,,12.9723,-13.9769,Kounkané,Senegal,Africa,2001-06-01T00:00:00Z,2001-06-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160854,Rift Valley fever,,13.77556,-13.66993,Kidira,Senegal,Africa,2001-07-01T00:00:00Z,2001-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160855,Rift Valley fever,,13.77556,-13.66993,Kidira,Senegal,Africa,2001-08-01T00:00:00Z,2001-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160896,Rift Valley fever,,14.46,-12.21,Kidira,Senegal,Africa,2005-09-01T00:00:00Z,2005-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160850,Rift Valley fever,,14.46,-12.21,Kidira,Senegal,Africa,2000-05-01T00:00:00Z,2000-05-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160882,Rift Valley fever,,13.77556,-13.66993,Kidira,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160856,Rift Valley fever,,13.77556,-13.66993,Kidira,Senegal,Africa,2001-09-01T00:00:00Z,2001-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160871,Rift Valley fever,,13.77556,-13.66993,Kidira,Senegal,Africa,2002-10-01T00:00:00Z,2002-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160895,Rift Valley fever,,14.46,-12.21,Kidira,Senegal,Africa,2005-08-01T00:00:00Z,2005-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160879,Rift Valley fever,,14.3415,-16.39431,Fatick Commune,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160887,Rift Valley fever,,15.82189,-15.06362,Tessekre,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+252068,Rift Valley fever,,15.397999,-15.690158,Louga,Senegal,Africa,2018-03-31T00:00:00Z,2018-12-31T00:00:00Z,"Domestic,Goat/sheep ,",WOAH (former OIE),,,Confirmed
+200001,Rift Valley fever,,15.255833,-14.860555,"Furdu Pond, Ferlo Region, Senegal",Senegal,Africa,2004-11-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,sheep,",Publications,,,Confirmed
+200003,Rift Valley fever,,15.241666,-14.851388,"Ngao Pond, Ferlo Region, Senegal",Senegal,Africa,2004-11-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,sheep,",Publications,,,Confirmed
+200004,Rift Valley fever,,15.296111,-14.898888,"Niaka Pond, Ferlo Region, Senegal",Senegal,Africa,2004-11-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,sheep,",Publications,,,Confirmed
+200000,Rift Valley fever,,15.283333,-14.866667,"Barkedji Pond, Ferlo Region, Senegal",Senegal,Africa,2004-11-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,sheep,",Publications,,,Confirmed
+200002,Rift Valley fever,,15.273611,-14.844444,"Kangaledji Pond, Ferlo Region, Senegal",Senegal,Africa,2004-11-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,sheep,",Publications,,,Confirmed
+283619,Rift Valley fever,,15.88,-13.648,Bokidiawé,Senegal,Africa,2020-09-30T00:00:00Z,2020-11-29T00:00:00Z,,WHO,1,,Confirmed
+234621,Rift Valley fever,,15.110542,-14.084368,Sodor,Senegal,Africa,2018-02-28T00:00:00Z,2018-03-01T00:00:00Z,"Domestic,Unspecified mammal,",FAO Field Officer,,,Confirmed
+160889,Rift Valley fever,,16.063,-13.4371,Thilogne,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160852,Rift Valley fever,,15.6396,-13.3101,Ourosogui,Senegal,Africa,2000-05-01T00:00:00Z,2000-05-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160875,Rift Valley fever,,16.02,-13.48,Thilogne,Senegal,Africa,2002-12-01T00:00:00Z,2002-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160873,Rift Valley fever,,15.05,-14.54,Ranérou,Senegal,Africa,2002-01-01T00:00:00Z,2002-01-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160864,Rift Valley fever,,15.05,-14.54,Ranérou,Senegal,Africa,2001-07-01T00:00:00Z,2001-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160905,Rift Valley fever,,15.6396,-13.3101,Ourosogui,Senegal,Africa,2008-12-01T00:00:00Z,2008-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+283620,Rift Valley fever,,15.88,-13.648,Bokidiawé,Senegal,Africa,,2020-11-29T00:00:00Z,,WHO,1,,Confirmed
+160885,Rift Valley fever,,15.05,-14.54,Ranérou,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+283618,Rift Valley fever,,15.88,-13.648,Bokidiawé,Senegal,Africa,2020-10-12T00:00:00Z,2020-11-29T00:00:00Z,,WHO,1,,Confirmed
+160893,Rift Valley fever,,16.063,-13.4371,Thilogne,Senegal,Africa,2004-07-01T00:00:00Z,2004-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160884,Rift Valley fever,,15.54743,-13.28383,Ogo Dendoudi,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160890,Rift Valley fever,,16.054557,-13.856797,Galoya,Senegal,Africa,2004-07-01T00:00:00Z,2004-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+179149,Rift Valley fever,,15.971207,-16.322756,"Guinthe Ndiaye, Ngnith, Ndiaye",Senegal,Africa,2013-09-19T00:00:00Z,2013-10-10T00:00:00Z,"Domestic,Goats,",WOAH (former OIE),,,Confirmed
+160872,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2002-09-01T00:00:00Z,2002-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160876,Rift Valley fever,,16.22941,-16.11985,Bjiborou,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160862,Rift Valley fever,,16.5604,-15.0883,Ndioum,Senegal,Africa,2001-08-01T00:00:00Z,2001-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160867,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2001-09-01T00:00:00Z,2001-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160858,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2001-06-01T00:00:00Z,2001-06-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+179148,Rift Valley fever,,15.971207,-16.322756,"Diama Peulh, Diama, Ndiaye",Senegal,Africa,2013-09-16T00:00:00Z,2013-10-10T00:00:00Z,"Domestic,Goats,",WOAH (former OIE),,,Confirmed
+160897,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2005-08-01T00:00:00Z,2005-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+280939,Rift Valley fever,,15.8812,-16.4999,Ndiébène Gandiole,Senegal,Africa,2020-10-05T00:00:00Z,2020-10-28T00:00:00Z,"Wild,Dorcas Gazelle,",WOAH (former OIE),,,Confirmed
+160886,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+279135,Rift Valley fever,,16.0643411,-16.4496228,"Ranch de Bango, Dépt de Saint-Louis, saint-Louis region",Senegal,Africa,2020-09-03T00:00:00Z,2020-09-20T00:00:00Z,"Wild,Unspecified mammal,",FAO officer,,,Confirmed
+160859,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2001-07-01T00:00:00Z,2001-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160878,Rift Valley fever,,16.49554,-15.4462,dialawaly,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160898,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2005-09-01T00:00:00Z,2005-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160902,Rift Valley fever,,16.5604,-14.6861,Thillé baoubacar ,Senegal,Africa,2005-08-01T00:00:00Z,2005-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160880,Rift Valley fever,,16.01317,-16.13649,Gonio,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160866,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2001-08-01T00:00:00Z,2001-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160906,Rift Valley fever,,16.5604,-14.6861,Thillé baoubacar ,Senegal,Africa,2008-12-01T00:00:00Z,2008-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160861,Rift Valley fever,,16.5604,-15.0883,Ndioum,Senegal,Africa,2001-07-01T00:00:00Z,2001-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160883,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160891,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2004-07-01T00:00:00Z,2004-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160869,Rift Valley fever,,16.054557,-13.856797,Galoya,Senegal,Africa,2002-12-01T00:00:00Z,2002-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160865,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2001-07-01T00:00:00Z,2001-07-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160851,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2000-05-01T00:00:00Z,2000-05-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160863,Rift Valley fever,,16.5604,-15.0883,Ndioum,Senegal,Africa,2001-09-01T00:00:00Z,2001-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160870,Rift Valley fever,,16.51,-15.5,Keur Mbaye ,Senegal,Africa,2002-01-01T00:00:00Z,2002-01-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160881,Rift Valley fever,,16.51218,-15.62085,guidakar,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160860,Rift Valley fever,,16.5604,-15.0883,Ndioum,Senegal,Africa,2001-06-01T00:00:00Z,2001-06-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160904,Rift Valley fever,,15.9571,-16.2526,Mpal ,Senegal,Africa,2008-12-01T00:00:00Z,2008-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160868,Rift Valley fever,,16.05,-13.89,Bilé,Senegal,Africa,2002-11-01T00:00:00Z,2002-11-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160853,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2000-05-01T00:00:00Z,2000-05-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+178910,Rift Valley fever,,15.8993,-16.5138,Gueumbeul ,Senegal,Africa,2013-09-10T00:00:00Z,2013-09-20T00:00:00Z,"Wild,Dorcas gazelle: Gazella dorcas(Bovidae),",WOAH (former OIE),,,Confirmed
+160900,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2005-09-01T00:00:00Z,2005-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160894,Rift Valley fever,,16.51,-15.5,Keur Mbaye,Senegal,Africa,2005-01-01T00:00:00Z,2005-01-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160892,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2004-01-01T00:00:00Z,2004-01-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+173344,Rift Valley fever,,16.244972,-15.886728,Dagana,Senegal,Africa,,2004-11-01T00:00:00Z,"Domestic,sheep,",WOAH (former OIE),,,Confirmed
+160901,Rift Valley fever,,16.5604,-14.6861,Thillé baoubacar ,Senegal,Africa,2005-09-01T00:00:00Z,2005-09-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160888,Rift Valley fever,,16.5604,-14.6861,Thillé baoubacar ,Senegal,Africa,2003-10-01T00:00:00Z,2003-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160903,Rift Valley fever,,16.51,-15.5,Keur Mbaye ,Senegal,Africa,2008-12-01T00:00:00Z,2008-12-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160899,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2005-08-01T00:00:00Z,2005-08-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed
+160874,Rift Valley fever,,16.3064,-16.1256,Ross-béthio,Senegal,Africa,2002-10-01T00:00:00Z,2002-10-01T00:00:00Z,"Domestic,Goat/sheep ,",FAO-Report,,,Confirmed

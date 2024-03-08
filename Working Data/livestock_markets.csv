@@ -1,0 +1,18 @@
+market_name,type,livestock_prod_zone,gps_longitude,gps_latitude,,gambian adm 1
+abuko,terminal_market,western_zone,13.4003977,-16.65291823,,western region
+brikama,terminal_market,western_zone,13.27265399,-16.64822309,,north bank region
+keneba,walic,western_zone,13.33160482,-16.00934113,,central river region
+bansang,walic,eastern_zone,13.45299708,-14.66684515,,lower river region 
+basse,limited_livestock_market,eastern_zone,13.30957362,-14.21888352,,upper river region
+yoro_beri_kunda,limited_livestock_market,eastern_zone,13.4978658,-14.75447182,,city region (banjul city council and kanifing municipal council)
+sololo,limited_livestock_market,eastern_zone,13.45590692,-14.68191817,,
+wassu,primary_livestock_market,eastern_zone,13.68691952,-14.87968609,,agri regions
+brikama_ba,primary_livestock_market,eastern_zone,13.53646515,-14.9323374,,north bank region (NBR)
+sare_bojo,primary_livestock_market,eastern_zone,13.32384365,-14.52358424,,central river region north (CRR/N)
+sare_ngai,primary_livestock_market,eastern_zone,13.5091418, -14.4363501,,central river region south (CRR/S)
+fass_njaga_choi,primary_livestock_market,central_zone,13.56594194,-16.42580673,,upper river region (URR)
+ndugu_kebbeh,primary_livestock_market,central_zone,13.53929535,-16.31957135,,
+farafenni,primary_livestock_market,central_zone,13.57217987,-15.5998048,,livestock prod zones
+bureng,primary_livestock_market,central_zone,13.41993091,-15.27644351,,western zone (include KMC and west coast region)
+soma,primary_livestock_market,,13.4443061,-15.53814668,,central zone (includes NBR and LRR)
+,,,,,,"eastern zone (inlcudes CRR/N, CRR/S, URR)"
