@@ -8,7 +8,7 @@
 
 # Libraries
 {library(pacman)
-p_load(spatstat, tmap, sf, raster, terra, tidyverse)}
+p_load(rio, here, tmap, sf, raster, terra, tidyverse)}
 
 
 # Working Data
@@ -27,7 +27,7 @@ gmb_adm0 <- st_read(here("Shapefiles", "gadm41_GMB_0.shp"))}
 
 
 # Ggplot themes
-#source("R/Sripts/ggplot_themes.R")
+source("Scripts/ggplot_themes.R")
 
 
 # Custom colour ramp
@@ -108,7 +108,7 @@ ggplot(pathogen_plot,
            y = n)) +
   geom_bar(stat = "identity", 
            position = "dodge", 
-           fill = "orange") +
+           fill = "blue4") +
   labs(x = "Pathogen tested", 
        y = "Count") + 
   custom_theme()
