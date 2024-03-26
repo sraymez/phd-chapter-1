@@ -522,7 +522,6 @@ ggplot(sen_adm0) +
 
 
 
-
 # Empres-i data ----
 
 empres_rvf <- import(here("Working Data", "empresi_senegal_rvf_cases.csv"))
