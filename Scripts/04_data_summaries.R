@@ -529,8 +529,8 @@ empres_rvf <- import(here("Working Data", "empresi_senegal_rvf_cases.csv"))
 
 # clean up dataframe
 empres_rvf <- empres_rvf %>% 
-  dplyr::filter(Diagnosis.Status == "Confirmed") %>% 
-  dplyr::select(Disease, latitude, longitude, Country, Species, Diagnosis.Source, Diagnosis.Status)
+  dplyr::filter(`Diagnosis Status` == "Confirmed") %>% 
+  dplyr::select(Disease, latitude, longitude, Country, Species, `Diagnosis Source`, `Diagnosis Status`)
 
 # convert to spatial object
 empres_rvf_sf <- empres_rvf %>% 
