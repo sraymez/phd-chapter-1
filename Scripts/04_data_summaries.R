@@ -533,7 +533,15 @@ empres_rvf <- empres_rvf %>%
 
 # convert to spatial object
 empres_rvf_sf <- empres_rvf %>% 
-  st_as_sf(coords = c("longitude", "latitude"), crs = 4326)
+  st_as_sf(coords = c("longitude", "latitude"), crs = 4326) %>% 
+  mutate(Species_edit = case_when(
+    Species == "Domestic,Cattle," ~ "Cattle",
+    Species == "Domestic,Goat/sheep ," ~ "Goat & sheep",
+    Species == "Domestic,sheep," ~ "Sheep",
+    Species == "Domestic,Goats," ~ "Goat",
+    Species %in% c("Wild,Dorcas Gazelle,", "Wild,Dorcas gazelle: Gazella dorcas(Bovidae),") ~ "Gazelle",
+    TRUE ~ "Unspecified"
+  ))
 
 
 # plot cases
@@ -545,12 +553,13 @@ tm_shape(sen_adm0) +
               border.col = "black", 
               lwd = 2) +
   tm_layout(frame = F, 
-            legend.position = c(0.8,0.6), 
+            legend.position = c(0.8,0.7), 
             legend.height = 0.4) +
   tm_shape(empres_rvf_sf) +
-  tm_dots(size = 0.1, 
+  tm_dots(col = "Species_edit",
+          size = 0.5, 
           border.alpha = 0.05,
           palette = "viridis",
-          title = "Pathogen")
+          title = "Species")
 
 
