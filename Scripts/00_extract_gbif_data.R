@@ -86,8 +86,8 @@ gbif_occ_bat <- occ_search(taxonKey = bat_key, country = c("GM", "SN"), hasCoord
 
 
 # Country borders
-gmAdm1 <- st_read(here("Shapefiles", "gadm41_GMB_1.shp"))
-snAdm1 <- st_read(here("Shapefiles", "gadm41_SEN_1.shp"))
+gmAdm1 <- st_read(here("Shapefiles", "gadm41_GMB_0.shp"))
+snAdm1 <- st_read(here("Shapefiles", "gadm41_SEN_0.shp"))
 
 
 # Create data frame from gbif files ----
@@ -230,7 +230,7 @@ tm_shape(snAdm1) +
 
 # Vector
 tm_shape(snAdm1) +
-  tm_polygons("white", border.alpha = 0.25) +
+  tm_polygons("white", border.alpha = 0.75) +
   tm_shape(gmAdm1) +
   tm_polygons("white", border.col = "black", lwd = 2) +
   tm_layout(frame = F, legend.position = c(0.8, 0.7)) +

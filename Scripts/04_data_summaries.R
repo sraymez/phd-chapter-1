@@ -31,7 +31,7 @@ source("Scripts/ggplot_themes.R")
 
 
 # Custom colour ramp
-colscalex = colorRampPalette(RColorBrewer::brewer.pal(3, name="YlGnBu"))(3)
+colscalex = colorRampPalette(RColorBrewer::brewer.pal(3, name="YlGnBu"))(7)
 
 
 # Graphs ----
@@ -356,14 +356,16 @@ prev_map <-
               border.col = "black", 
               lwd = 1.75) +
   tm_layout(frame = F, 
-            legend.position = c(0.7,0.8),
+            legend.position = c(0.8,0.65),
             legend.title.size = 1.5,
             legend.text.size = 1,
             main.title = "RVF Prevalence") +
   tm_shape(rvf_prev_sf) +
-  tm_dots(size = 0.2,
+  tm_dots(size = 0.5,
           col = "any_prev",
-          palette = "viridis")
+          style = "fixed",
+          breaks = c(0,5,10,15,25,50,70,80),
+          palette = "-RdYlBu")
 prev_map
 
 
