@@ -1,18 +1,45 @@
-market_name,type,livestock_prod_zone,gps_longitude,gps_latitude,,gambian adm 1
-abuko,terminal_market,western_zone,13.4003977,-16.65291823,,western region
-brikama,terminal_market,western_zone,13.27265399,-16.64822309,,north bank region
-keneba,walic,western_zone,13.33160482,-16.00934113,,central river region
-bansang,walic,eastern_zone,13.45299708,-14.66684515,,lower river region 
-basse,limited_livestock_market,eastern_zone,13.30957362,-14.21888352,,upper river region
-yoro_beri_kunda,limited_livestock_market,eastern_zone,13.4978658,-14.75447182,,city region (banjul city council and kanifing municipal council)
-sololo,limited_livestock_market,eastern_zone,13.45590692,-14.68191817,,
-wassu,primary_livestock_market,eastern_zone,13.68691952,-14.87968609,,agri regions
-brikama_ba,primary_livestock_market,eastern_zone,13.53646515,-14.9323374,,north bank region (NBR)
-sare_bojo,primary_livestock_market,eastern_zone,13.32384365,-14.52358424,,central river region north (CRR/N)
-sare_ngai,primary_livestock_market,eastern_zone,13.5091418, -14.4363501,,central river region south (CRR/S)
-fass_njaga_choi,primary_livestock_market,central_zone,13.56594194,-16.42580673,,upper river region (URR)
-ndugu_kebbeh,primary_livestock_market,central_zone,13.53929535,-16.31957135,,
-farafenni,primary_livestock_market,central_zone,13.57217987,-15.5998048,,livestock prod zones
-bureng,primary_livestock_market,central_zone,13.41993091,-15.27644351,,western zone (include KMC and west coast region)
-soma,primary_livestock_market,,13.4443061,-15.53814668,,central zone (includes NBR and LRR)
-,,,,,,"eastern zone (inlcudes CRR/N, CRR/S, URR)"
+market_name,type,country,gps_latitude,gps_longitude
+abuko,terminal_market,gambia,13.4003977,-16.65291823
+brikama,terminal_market,gambia,13.27265399,-16.64822309
+keneba,walic,gambia,13.33160482,-16.00934113
+bansang,walic,gambia,13.45299708,-14.66684515
+basse,limited_livestock_market,gambia,13.30957362,-14.21888352
+yoro_beri_kunda,limited_livestock_market,gambia,13.4978658,-14.75447182
+sololo,limited_livestock_market,gambia,13.45590692,-14.68191817
+wassu,primary_livestock_market,gambia,13.68691952,-14.87968609
+brikama_ba,primary_livestock_market,gambia,13.53646515,-14.9323374
+sare_bojo,primary_livestock_market,gambia,13.32384365,-14.52358424
+sare_ngai,primary_livestock_market,gambia,13.5091418,-14.4363501
+fass_njaga_choi,primary_livestock_market,gambia,13.56594194,-16.42580673
+ndugu_kebbeh,primary_livestock_market,gambia,13.53929535,-16.31957135
+farafenni,primary_livestock_market,gambia,13.57217987,-15.5998048
+bureng,primary_livestock_market,gambia,13.41993091,-15.27644351
+soma,primary_livestock_market,gambia,13.4443061,-15.53814668
+podor,assembly,senegal,16.66022338,-14.95956197
+richard_toll,retail,senegal,16.45912968,-15.69499104
+dagana,retail,senegal,16.51074583,-15.50341856
+boghe,retail,senegal,16.5965899,-14.26072854
+dodele,assembly_and_wholesale,senegal,16.48874202,-14.41985843
+gollere,retail,senegal,16.24866707,-14.10876313
+mbagne,retail,senegal,16.15184339,-13.77729715
+galaya,assembly,senegal,16.07198209,-13.85527553
+saint_louis,retail,senegal,16.0324474,-16.48132707
+gouille_mbeuth,retail,senegal,15.6754726,-16.03003832
+ourossogui,retail_and_wholsesale,senegal,15.60443628,-13.32057997
+dahra,retail_and_wholsesale,senegal,15.35632704,-15.48316996
+orkadiere,retail,senegal,15.28149398,-12.96421066
+touba,retail_and_wholsesale,senegal,14.86665136,-15.90078411
+bakel,assembly,senegal,14.90693948,-12.46097614
+thies,retail_and_wholsesale,senegal,14.79208846,-16.93755614
+dakar,retail,senegal,14.71526003,-17.46903793
+diourbel,retail,senegal,14.65624156,-16.23563983
+sandiara,retail,senegal,14.43404102,-16.79262415
+kaolac,retail,senegal,14.16509202,-16.07837295
+birkelane,retail,senegal,14.12835635,-15.74430777
+tambacounda,retail,senegal,13.77272772,-13.67067854
+kedougou,assembly,senegal,12.5605116,-12.1772025
+velingara,retail,senegal,13.14844082,-14.11077448
+bagadadji,retail,senegal,12.8018778,-15.04507618
+kolda,retail,senegal,12.90016739,-14.94322719
+sare_diaobe,assembly_and_wholesale,senegal,,
+ziguinchor,retail,senegal,12.56514367,-16.27232739

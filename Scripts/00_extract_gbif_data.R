@@ -1,4 +1,4 @@
-## GBIF Extraction
+## GBIF host and vector occurrence records
 
 
 
@@ -14,11 +14,11 @@ pacman::p_load(pkgs, character.only = T)
 
 # GBIF downloads ----
 
-# Provide gbif credentials
+# Provide GBIF credentials
 #usethis::edit_r_environ() # set username, password and email
 
 
-# Vectors occurence data
+# Vectors occurrence data
 myVectors <- c("Aedes aegypti", "Aedes taylori", "Aedes furcifer", "Aedes dalzieli", "Aedes luteocephalus", 
                "Aedes africanus", "Aedes metallicus", "Aedes vexans", "Aedes vittatus", "Culex neavei",
                "Culex poicilipes", "Culex antennatus", "Culex perfuscus", "Culex quinquefasciatus",
@@ -29,7 +29,7 @@ gbif_vec_gm <- occ_data(scientificName = myVectors, hasCoordinate = TRUE, countr
 gbif_vec_sn <- occ_data(scientificName = myVectors, hasCoordinate = TRUE, country = "SN")
 
 
-# method 2 - streamlined
+# Process vector occurrence records
 {genus_aedes <- "Aedes"
 genus_culex <- "Culex"
 #genus_glossina <- "Glossina"
@@ -86,8 +86,8 @@ gbif_occ_bat <- occ_search(taxonKey = bat_key, country = c("GM", "SN"), hasCoord
 
 
 # Country borders
-gmAdm1 <- st_read(here("Shapefiles", "gadm41_GMB_0.shp"))
-snAdm1 <- st_read(here("Shapefiles", "gadm41_SEN_0.shp"))
+gmb_adm0 <- st_read(here("Shapefiles", "gadm41_GMB_0.shp"))
+sen_adm0 <- st_read(here("Shapefiles", "gadm41_SEN_0.shp"))
 
 
 # Create data frame from gbif files ----
@@ -210,6 +210,10 @@ colsFnc <- function(data) {data %>% select(key, scientificName, decimalLatitude,
 # Bind all sf objects together 
 reservoir_data_sf <- bind_rows(rodent_data_sf, cow_data_sf, goat_data_sf, bats_data_sf)
 vector_data_sf <- bind_rows(aedes_data_sf, culex_data_sf, tick_data_sf)
+
+
+# Save occurrence records for later use
+st_write(vector_data_sf, "Working Data/gbif_vector_records.shp", driver = "ESRI Shapefile", append = F)
 
 
 
